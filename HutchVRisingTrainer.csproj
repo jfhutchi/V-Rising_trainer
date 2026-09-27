@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <AssemblyName>HutchVRisingTrainer</AssemblyName>
+    <Version>0.6.4</Version>
+    <VRI_GAME_DIR Condition="'$(VRI_GAME_DIR)' == ''">D:\SteamLibrary\steamapps\common\VRising</VRI_GAME_DIR>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="tests/**/*.cs" />
+    <EmbeddedResource Include="data/Achievements.json" />
+    <EmbeddedResource Include="data/Items.json" />
+    <Reference Include="BepInEx.Core"><HintPath>$(VRI_GAME_DIR)/BepInEx/core/BepInEx.Core.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.IL2CPP"><HintPath>$(VRI_GAME_DIR)/BepInEx/core/BepInEx.Unity.IL2CPP.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="BepInEx.Unity.Common"><HintPath>$(VRI_GAME_DIR)/BepInEx/core/BepInEx.Unity.Common.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2CppInterop.Runtime"><HintPath>$(VRI_GAME_DIR)/BepInEx/core/Il2CppInterop.Runtime.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="0Harmony"><HintPath>$(VRI_GAME_DIR)/BepInEx/core/0Harmony.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Il2Cppmscorlib"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/Il2Cppmscorlib.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="ProjectM"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/ProjectM.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="ProjectM.Shared"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/ProjectM.Shared.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Unity.Collections"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/Unity.Collections.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="Unity.Entities"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/Unity.Entities.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.CoreModule"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/UnityEngine.CoreModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.IMGUIModule"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/UnityEngine.IMGUIModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.InputLegacyModule"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/UnityEngine.InputLegacyModule.dll</HintPath><Private>false</Private></Reference>
+    <Reference Include="UnityEngine.TextRenderingModule"><HintPath>$(VRI_GAME_DIR)/BepInEx/interop/UnityEngine.TextRenderingModule.dll</HintPath><Private>false</Private></Reference>
+  </ItemGroup>
+  <Target Name="ValidateGameReferences" BeforeTargets="PrepareForBuild">
+    <Error Condition="!Exists('$(VRI_GAME_DIR)/VRising.exe')" Text="V Rising not found. Set VRI_GAME_DIR to the folder containing VRising.exe." />
+    <Error Condition="!Exists('%(Reference.HintPath)')" Text="Missing BepInEx/interop reference: %(Reference.HintPath). Launch the game once after installing BepInEx." />
+  </Target>
+</Project>

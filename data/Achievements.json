@@ -1,0 +1,296 @@
+[
+  {
+    "Id": "symphonyofthenight",
+    "Name": "Symphony of the Night",
+    "Description": "Interact with a music box.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "largerpockets",
+    "Name": "Larger Pockets!",
+    "Description": "Equip a bag.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "exquisiteblood",
+    "Name": "Exquisite Blood",
+    "Description": "Drink blood from a 100% blood quality source.",
+    "Category": "Blood and prisoners"
+  },
+  {
+    "Id": "awholenewworld",
+    "Name": "A Whole New World",
+    "Description": "Venture into the Farbane Woods area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "afoxinthehenhouse",
+    "Name": "A Fox in the Hen House",
+    "Description": "Venture into the Dunley Farmlands area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "footstepsinthesnow",
+    "Name": "Footsteps in the Snow",
+    "Description": "Venture into the Hallowed Mountains area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "godlessintrusion",
+    "Name": "Godless Intrusion",
+    "Description": "Venture into the Silverlight area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "forbiddenfootsteps",
+    "Name": "Forbidden Footsteps",
+    "Description": "Venture into the Cursed Forest area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "dontdrinkthewater",
+    "Name": "Don't Drink the Water",
+    "Description": "Venture into the Gloomrot South area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "marchofthemachines",
+    "Name": "March of the Machines",
+    "Description": "Venture into the Gloomrot North area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "theforgottenreaches",
+    "Name": "The Forgotten Reaches",
+    "Description": "Venture into the Ruins of Mortium area.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "afirsttaste",
+    "Name": "A First Taste",
+    "Description": "Feed from a living creature.",
+    "Category": "Blood and prisoners"
+  },
+  {
+    "Id": "gonefishing",
+    "Name": "Gone Fishing",
+    "Description": "Catch a fish using a fishing rod.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "yournumberonefan",
+    "Name": "Your Number One Fan",
+    "Description": "Fully equip a servant.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "blooddonor",
+    "Name": "Blood Donor",
+    "Description": "Extract blood from a prisoner.",
+    "Category": "Blood and prisoners"
+  },
+  {
+    "Id": "uponapalehorse",
+    "Name": "Upon a Pale Horse",
+    "Description": "Ride a horse.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "vampirerising",
+    "Name": "Vampire Rising",
+    "Description": "Place a staircase.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "theallureofcoin",
+    "Name": "The Allure of Coin",
+    "Description": "Trade with a Shady Merchant in the Farbane Woods.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "avampirewithahobby",
+    "Name": "A Vampire with a Hobby",
+    "Description": "Plant a seed in a planter.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "ultimatepower",
+    "Name": "Ultimate Power",
+    "Description": "Cast an ultimate ability.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "firstofmany",
+    "Name": "First of Many",
+    "Description": "Drink the blood of a V Blood.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "lordoftheland",
+    "Name": "Lord of the Land",
+    "Description": "Place a Castle Heart and claim an unoccupied territory.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "masterofdisguise",
+    "Name": "Master of Disguise",
+    "Description": "Trade with a merchant as a very ordinary human.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "itsatightsqueeze",
+    "Name": "It's a Tight Squeeze",
+    "Description": "Use Rat Form and traverse through a small hole.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "ohno",
+    "Name": "Oh No!",
+    "Description": "Eat the wrong mushroom.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "worksmartnothard",
+    "Name": "Work Smart, Not Hard",
+    "Description": "Interact with a work station that has the room and floor bonus active.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "aweaponfromamorecivilizedage",
+    "Name": "A Weapon From a More Civilized Age",
+    "Description": "Reforge a shattered weapon at the Ancestral Forge.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "riftslayer",
+    "Name": "Riftslayer",
+    "Description": "Participate in closing a rift to the Shadow Realm.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "dressedtoimpress",
+    "Name": "Dressed to Impress",
+    "Description": "Equip an item in a Cosmetic Slot.",
+    "Category": "Castle and gear"
+  },
+  {
+    "Id": "totheskies",
+    "Name": "To the Skies",
+    "Description": "Find a way to fly.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "acreatureofmanyforms",
+    "Name": "A Creature of Many Forms",
+    "Description": "Use your Vampire powers to shapeshift into another form.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "instantgratification",
+    "Name": "Instant Gratification",
+    "Description": "Teleport using a Vampire Waygate.",
+    "Category": "Activities"
+  },
+  {
+    "Id": "everycorneroftheworld",
+    "Name": "Every Corner of the World",
+    "Description": "Venture to all major regions.",
+    "Category": "Exploration"
+  },
+  {
+    "Id": "completeact1",
+    "Name": "Completed Act 1",
+    "Description": "Defeat Quincey the Bandit King and complete Act I.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "completeact2",
+    "Name": "Completed Act 2",
+    "Description": "Defeat Octavian the Militia Leader and complete Act II.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "completeact3",
+    "Name": "Completed Act 3",
+    "Description": "Defeat Cyril the Cursed Smith and complete Act III.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "completeact4",
+    "Name": "Completed Act 4",
+    "Description": "Defeat Solarus the Immaculate and complete Act IV.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "collectorofforgottenlorei",
+    "Name": "Collector of Forgotten Lore I",
+    "Description": "Interact with a Research Desk that has all technologies unlocked.",
+    "Category": "Research"
+  },
+  {
+    "Id": "collectorofforgottenloreii",
+    "Name": "Collector of Forgotten Lore II",
+    "Description": "Interact with a Study that has all technologies unlocked.",
+    "Category": "Research"
+  },
+  {
+    "Id": "collectorofforgottenloreiii",
+    "Name": "Collector of Forgotten Lore III",
+    "Description": "Interact with an Athenaeum that has all technologies unlocked.",
+    "Category": "Research"
+  },
+  {
+    "Id": "aperfecttestsubject",
+    "Name": "A Perfect Test Subject",
+    "Description": "Feed a prisoner with Irradiant Gruel and have them reach 100% blood quality as a result.",
+    "Category": "Blood and prisoners"
+  },
+  {
+    "Id": "aneyeforquality",
+    "Name": "An Eye for Quality",
+    "Description": "Successfully charm a human that has 100% blood quality.",
+    "Category": "Blood and prisoners"
+  },
+  {
+    "Id": "slayeroftheimmortalking",
+    "Name": "Slayer of the Immortal King",
+    "Description": "Defeat Dracula, The Immortal King.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "masterofall",
+    "Name": "Master of All",
+    "Description": "Defeat and drink the blood of every V Blood.",
+    "Category": "Bosses"
+  },
+  {
+    "Id": "brutalcompleteact1",
+    "Name": "Completed Act 1 on Brutal Difficulty",
+    "Description": "Defeat Quincey the Bandit King and complete Act I on Brutal Difficulty.",
+    "Category": "Brutal bosses"
+  },
+  {
+    "Id": "brutalcompleteact2",
+    "Name": "Completed Act 2 on Brutal Difficulty",
+    "Description": "Defeat Octavian the Militia Leader and complete Act II on Brutal Difficulty.",
+    "Category": "Brutal bosses"
+  },
+  {
+    "Id": "brutalcompleteact3",
+    "Name": "Completed Act 3 on Brutal Difficulty",
+    "Description": "Defeat Cyril the Cursed Smith and complete Act III on Brutal Difficulty.",
+    "Category": "Brutal bosses"
+  },
+  {
+    "Id": "brutalcompleteact4",
+    "Name": "Completed Act 4 on Brutal Difficulty",
+    "Description": "Defeat Solarus the Immaculate and complete Act IV on Brutal Difficulty.",
+    "Category": "Brutal bosses"
+  },
+  {
+    "Id": "brutalslayeroftheimmortalking",
+    "Name": "Brutal Slayer of the Immortal King",
+    "Description": "Defeat Dracula, The Immortal King, on Brutal Difficulty.",
+    "Category": "Brutal bosses"
+  }
+]

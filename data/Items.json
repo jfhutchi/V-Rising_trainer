@@ -1,0 +1,4430 @@
+[
+  {
+    "Name": "Item_Armor_Chest_Base",
+    "Id": 1328680870
+  },
+  {
+    "Name": "Item_Armor_Gloves_Base",
+    "Id": -786493143
+  },
+  {
+    "Name": "Item_Armor_Headgear_Base",
+    "Id": -1905547794
+  },
+  {
+    "Name": "Item_Armor_Legs_Base",
+    "Id": 269771183
+  },
+  {
+    "Name": "Item_BloodEssence_T01",
+    "Id": 862477668
+  },
+  {
+    "Name": "Item_BloodEssence_T02_Greater",
+    "Id": 271594022
+  },
+  {
+    "Name": "Item_BloodEssence_T03_Primal",
+    "Id": 1566989408
+  },
+  {
+    "Name": "Item_Boots_T00_StartingRags",
+    "Id": -2137364987
+  },
+  {
+    "Name": "Item_Boots_T01_Bone",
+    "Id": 711062517
+  },
+  {
+    "Name": "Item_Boots_T02_BoneReinforced",
+    "Id": 1241831522
+  },
+  {
+    "Name": "Item_Boots_T03_Cloth",
+    "Id": -1354920908
+  },
+  {
+    "Name": "Item_Boots_T04_Copper_Brute",
+    "Id": -1359494169
+  },
+  {
+    "Name": "Item_Boots_T04_Copper_Rogue",
+    "Id": 1101206623
+  },
+  {
+    "Name": "Item_Boots_T04_Copper_Scholar",
+    "Id": 1204352435
+  },
+  {
+    "Name": "Item_Boots_T04_Copper_Warrior",
+    "Id": -15390086
+  },
+  {
+    "Name": "Item_Boots_T05_Cotton",
+    "Id": -1837769884
+  },
+  {
+    "Name": "Item_Boots_T06_Iron_Brute",
+    "Id": -1329744719
+  },
+  {
+    "Name": "Item_Boots_T06_Iron_Rogue",
+    "Id": 51576788
+  },
+  {
+    "Name": "Item_Boots_T06_Iron_Scholar",
+    "Id": 138060378
+  },
+  {
+    "Name": "Item_Boots_T06_Iron_Warrior",
+    "Id": 666433583
+  },
+  {
+    "Name": "Item_Boots_T07_Silk",
+    "Id": 560446510
+  },
+  {
+    "Name": "Item_Boots_T08_DarkSilver_Brute",
+    "Id": -1023762087
+  },
+  {
+    "Name": "Item_Boots_T08_DarkSilver_Rogue",
+    "Id": -1921018689
+  },
+  {
+    "Name": "Item_Boots_T08_DarkSilver_Scholar",
+    "Id": 1469185034
+  },
+  {
+    "Name": "Item_Boots_T08_DarkSilver_Warrior",
+    "Id": 1395895315
+  },
+  {
+    "Name": "Item_Boots_T09_Dracula",
+    "Id": 1400688919
+  },
+  {
+    "Name": "Item_Boots_T09_Dracula_Brute",
+    "Id": 1646489863
+  },
+  {
+    "Name": "Item_Boots_T09_Dracula_Rogue",
+    "Id": 1855323424
+  },
+  {
+    "Name": "Item_Boots_T09_Dracula_Scholar",
+    "Id": 1531721602
+  },
+  {
+    "Name": "Item_Boots_T09_Dracula_Warrior",
+    "Id": -382349289
+  },
+  {
+    "Name": "Item_Boots_T0X_BlackfangSultan",
+    "Id": 540608060
+  },
+  {
+    "Name": "Item_Boots_T0X_PMK01",
+    "Id": -1214309698
+  },
+  {
+    "Name": "Item_Boots_T0X_PMK03",
+    "Id": -14368032
+  },
+  {
+    "Name": "Item_Boots_T0X_VampireKnight",
+    "Id": 830032282
+  },
+  {
+    "Name": "Item_Building_DuelFlag",
+    "Id": -262414476
+  },
+  {
+    "Name": "Item_Building_EMP_T01",
+    "Id": -1447213995
+  },
+  {
+    "Name": "Item_Building_Explosives_T01",
+    "Id": 1779299585
+  },
+  {
+    "Name": "Item_Building_Explosives_T02",
+    "Id": -1021407417
+  },
+  {
+    "Name": "Item_Building_Plants_BleedingHeart_Seed",
+    "Id": -1463158090
+  },
+  {
+    "Name": "Item_Building_Plants_BloodRose_Seed",
+    "Id": 531984050
+  },
+  {
+    "Name": "Item_Building_Plants_CorruptedFlower_Seed",
+    "Id": -410008482
+  },
+  {
+    "Name": "Item_Building_Plants_Cotton_Seed",
+    "Id": -1289010178
+  },
+  {
+    "Name": "Item_Building_Plants_FireBlossom_Seed",
+    "Id": 675013523
+  },
+  {
+    "Name": "Item_Building_Plants_GhostShroom_Seed",
+    "Id": 1762839393
+  },
+  {
+    "Name": "Item_Building_Plants_Grapes_Seed",
+    "Id": -1681104075
+  },
+  {
+    "Name": "Item_Building_Plants_HellsClarion_Seed",
+    "Id": -1987586694
+  },
+  {
+    "Name": "Item_Building_Plants_MourningLily_Seed",
+    "Id": -1386314668
+  },
+  {
+    "Name": "Item_Building_Plants_PlagueBrier_Seed",
+    "Id": -1495639636
+  },
+  {
+    "Name": "Item_Building_Plants_SnowFlower_Seed",
+    "Id": 1985892973
+  },
+  {
+    "Name": "Item_Building_Plants_Sunflower_Seed",
+    "Id": -473351958
+  },
+  {
+    "Name": "Item_Building_Plants_Thistle_Seed",
+    "Id": -1370210913
+  },
+  {
+    "Name": "Item_Building_Plants_TrippyShroom_Seed",
+    "Id": 1915695899
+  },
+  {
+    "Name": "Item_Building_Relic_Behemoth",
+    "Id": 1247086852
+  },
+  {
+    "Name": "Item_Building_Relic_Manticore",
+    "Id": -222860772
+  },
+  {
+    "Name": "Item_Building_Relic_Monster",
+    "Id": -1619308732
+  },
+  {
+    "Name": "Item_Building_Relic_Paladin",
+    "Id": 2019195024
+  },
+  {
+    "Name": "Item_Building_Sapling_AppleCursed_Seed",
+    "Id": -1897495615
+  },
+  {
+    "Name": "Item_Building_Sapling_AppleTree_Seed",
+    "Id": 1226559814
+  },
+  {
+    "Name": "Item_Building_Sapling_Aspen_Seed",
+    "Id": 1996361886
+  },
+  {
+    "Name": "Item_Building_Sapling_AspenAutum_Seed",
+    "Id": -2035190786
+  },
+  {
+    "Name": "Item_Building_Sapling_Birch_Seed",
+    "Id": 1552240197
+  },
+  {
+    "Name": "Item_Building_Sapling_BirchAutum_Seed",
+    "Id": 2000981302
+  },
+  {
+    "Name": "Item_Building_Sapling_Cherry_Blossom",
+    "Id": 1818351545
+  },
+  {
+    "Name": "Item_Building_Sapling_CherryWhite_Blossom",
+    "Id": 1738392650
+  },
+  {
+    "Name": "Item_Building_Sapling_Cypress_Seed",
+    "Id": -1043479168
+  },
+  {
+    "Name": "Item_Building_Sapling_GloomTree_Seed",
+    "Id": -1800289670
+  },
+  {
+    "Name": "Item_Building_Sapling_Oak_Acorn",
+    "Id": -626353315
+  },
+  {
+    "Name": "Item_Building_Sapling_Spruce_Cone",
+    "Id": 1227483037
+  },
+  {
+    "Name": "Item_Building_Sapling_WeepingWillow",
+    "Id": 858598154
+  },
+  {
+    "Name": "Item_Building_Siege_Golem_T02",
+    "Id": -1461326411
+  },
+  {
+    "Name": "Item_Chest_T00_StartingRags",
+    "Id": -1723445833
+  },
+  {
+    "Name": "Item_Chest_T01_Bone",
+    "Id": 329301090
+  },
+  {
+    "Name": "Item_Chest_T02_BoneReinforced",
+    "Id": -958936382
+  },
+  {
+    "Name": "Item_Chest_T03_Cloth",
+    "Id": -957963240
+  },
+  {
+    "Name": "Item_Chest_T04_Copper_Brute",
+    "Id": -112921782
+  },
+  {
+    "Name": "Item_Chest_T04_Copper_Rogue",
+    "Id": 763326246
+  },
+  {
+    "Name": "Item_Chest_T04_Copper_Scholar",
+    "Id": -2100321922
+  },
+  {
+    "Name": "Item_Chest_T04_Copper_Warrior",
+    "Id": 1809631067
+  },
+  {
+    "Name": "Item_Chest_T05_Cotton",
+    "Id": -604941435
+  },
+  {
+    "Name": "Item_Chest_T06_Iron_Brute",
+    "Id": -1641042717
+  },
+  {
+    "Name": "Item_Chest_T06_Iron_Rogue",
+    "Id": -69916288
+  },
+  {
+    "Name": "Item_Chest_T06_Iron_Scholar",
+    "Id": -2127687996
+  },
+  {
+    "Name": "Item_Chest_T06_Iron_Warrior",
+    "Id": -2102875089
+  },
+  {
+    "Name": "Item_Chest_T07_Silk",
+    "Id": -930514044
+  },
+  {
+    "Name": "Item_Chest_T08_DarkSilver_Brute",
+    "Id": -1279475298
+  },
+  {
+    "Name": "Item_Chest_T08_DarkSilver_Rogue",
+    "Id": 1871735757
+  },
+  {
+    "Name": "Item_Chest_T08_DarkSilver_Scholar",
+    "Id": -919709436
+  },
+  {
+    "Name": "Item_Chest_T08_DarkSilver_Warrior",
+    "Id": 750788905
+  },
+  {
+    "Name": "Item_Chest_T09_Dracula",
+    "Id": 1055898174
+  },
+  {
+    "Name": "Item_Chest_T09_Dracula_Brute",
+    "Id": 1033753207
+  },
+  {
+    "Name": "Item_Chest_T09_Dracula_Rogue",
+    "Id": 933057100
+  },
+  {
+    "Name": "Item_Chest_T09_Dracula_Scholar",
+    "Id": 114259912
+  },
+  {
+    "Name": "Item_Chest_T09_Dracula_Warrior",
+    "Id": 1392314162
+  },
+  {
+    "Name": "Item_Chest_T0X_BlackfangSultan",
+    "Id": -247737453
+  },
+  {
+    "Name": "Item_Chest_T0X_Cosmetic_Dress01",
+    "Id": -511360389
+  },
+  {
+    "Name": "Item_Chest_T0X_Cosmetic_Suit01",
+    "Id": 538326235
+  },
+  {
+    "Name": "Item_Chest_T0X_PMK01",
+    "Id": 1712262077
+  },
+  {
+    "Name": "Item_Chest_T0X_PMK02",
+    "Id": 896678280
+  },
+  {
+    "Name": "Item_Chest_T0X_PMK03",
+    "Id": -1349059251
+  },
+  {
+    "Name": "Item_Chest_T0X_TransmogTest",
+    "Id": -625033436
+  },
+  {
+    "Name": "Item_Chest_T0X_VampireKnight",
+    "Id": 1953885108
+  },
+  {
+    "Name": "Item_Cloak_Main_ShroudOfTheForest",
+    "Id": 1063517722
+  },
+  {
+    "Name": "Item_Cloak_Main_T01_Travelers",
+    "Id": -1819786494
+  },
+  {
+    "Name": "Item_Cloak_Main_T02_Hunter",
+    "Id": 786585343
+  },
+  {
+    "Name": "Item_Cloak_Main_T03_Phantom",
+    "Id": -227965303
+  },
+  {
+    "Name": "Item_Cloak_T01_ChaosArcher",
+    "Id": -168044197
+  },
+  {
+    "Name": "Item_Cloak_T01_Dracula",
+    "Id": 1284160983
+  },
+  {
+    "Name": "Item_Cloak_T01_FrostArrow",
+    "Id": -24337506
+  },
+  {
+    "Name": "Item_Cloak_T01_Jade",
+    "Id": 1261174372
+  },
+  {
+    "Name": "Item_Cloak_T01_PlagueMaster",
+    "Id": -1514540144
+  },
+  {
+    "Name": "Item_Cloak_T01_Razer",
+    "Id": -766642494
+  },
+  {
+    "Name": "Item_Cloak_T01_UndeadMage",
+    "Id": -305440546
+  },
+  {
+    "Name": "Item_Cloak_T01_VampireHunter",
+    "Id": 1335546377
+  },
+  {
+    "Name": "Item_Cloak_T01_ZealousCultist",
+    "Id": 150621304
+  },
+  {
+    "Name": "Item_Cloak_T02_Cardinal",
+    "Id": -1768698241
+  },
+  {
+    "Name": "Item_Cloak_T02_Dracula",
+    "Id": -1067360120
+  },
+  {
+    "Name": "Item_Cloak_T02_HarpyMatriarch",
+    "Id": 1677983904
+  },
+  {
+    "Name": "Item_Cloak_T02_HolyPaladin",
+    "Id": -2091288477
+  },
+  {
+    "Name": "Item_Cloak_T02_MilitiaMonk",
+    "Id": 2147390246
+  },
+  {
+    "Name": "Item_Cloak_T02_PatchedCloak",
+    "Id": 1275572025
+  },
+  {
+    "Name": "Item_Cloak_T02_PlagueMaster",
+    "Id": -1324340002
+  },
+  {
+    "Name": "Item_Cloak_T02_Poloma",
+    "Id": -589858836
+  },
+  {
+    "Name": "Item_Cloak_T02_Razer",
+    "Id": 1410262258
+  },
+  {
+    "Name": "Item_Cloak_T02_Tailor",
+    "Id": -2081646636
+  },
+  {
+    "Name": "Item_Cloak_T02_TornRags",
+    "Id": 707710831
+  },
+  {
+    "Name": "Item_Cloak_T02_WildlingBlue",
+    "Id": 239338934
+  },
+  {
+    "Name": "Item_Cloak_T02_WildlingRed",
+    "Id": -1023114892
+  },
+  {
+    "Name": "Item_Cloak_T03_CrimsonWard",
+    "Id": -1755568324
+  },
+  {
+    "Name": "Item_Cloak_T03_Dracula",
+    "Id": -1814109557
+  },
+  {
+    "Name": "Item_Cloak_T03_Jester",
+    "Id": 379281083
+  },
+  {
+    "Name": "Item_Cloak_T03_PlagueMaster",
+    "Id": 821609569
+  },
+  {
+    "Name": "Item_Cloak_T03_Razer",
+    "Id": 136740861
+  },
+  {
+    "Name": "Item_Cloak_T03_Royal",
+    "Id": 584164197
+  },
+  {
+    "Name": "Item_Cloak_T03_UnholyShroud",
+    "Id": 1863126275
+  },
+  {
+    "Name": "Item_Cloak_T0X_PMK01",
+    "Id": -1177172544
+  },
+  {
+    "Name": "Item_Consumable_BarrelDisguise01",
+    "Id": -82465606
+  },
+  {
+    "Name": "Item_Consumable_Bottle_Water_T02",
+    "Id": -1382451936
+  },
+  {
+    "Name": "Item_Consumable_Canister_ToxicSludge",
+    "Id": -1823614190
+  },
+  {
+    "Name": "Item_Consumable_DuskCaller",
+    "Id": 1128262258
+  },
+  {
+    "Name": "Item_Consumable_Eat_Rat",
+    "Id": -869864524
+  },
+  {
+    "Name": "Item_Consumable_EmptyBottle",
+    "Id": -437611596
+  },
+  {
+    "Name": "Item_Consumable_EmptyWaterskin",
+    "Id": -810738866
+  },
+  {
+    "Name": "Item_Consumable_FireResistancePotion_T01",
+    "Id": 970650569
+  },
+  {
+    "Name": "Item_Consumable_GarlicResistancePotion_T01",
+    "Id": 423790753
+  },
+  {
+    "Name": "Item_Consumable_GarlicResistancePotion_T02",
+    "Id": -2139183850
+  },
+  {
+    "Name": "Item_Consumable_HealingPotion_T01",
+    "Id": 800879747
+  },
+  {
+    "Name": "Item_Consumable_HealingPotion_T02",
+    "Id": 429052660
+  },
+  {
+    "Name": "Item_Consumable_Heart_T02_Tainted",
+    "Id": 947998050
+  },
+  {
+    "Name": "Item_Consumable_Heart_T03_Unsullied",
+    "Id": -204051056
+  },
+  {
+    "Name": "Item_Consumable_Heart_T04_Exquisite",
+    "Id": -1965958712
+  },
+  {
+    "Name": "Item_Consumable_Heart_T05_Pristine",
+    "Id": -1413694594
+  },
+  {
+    "Name": "Item_Consumable_HolyResistancePotion_T01",
+    "Id": 890484447
+  },
+  {
+    "Name": "Item_Consumable_HolyResistancePotion_T02",
+    "Id": 639992282
+  },
+  {
+    "Name": "Item_Consumable_IrradiantGruel",
+    "Id": 1851490036
+  },
+  {
+    "Name": "Item_Consumable_PhysicalPowerPotion_T01",
+    "Id": -269326085
+  },
+  {
+    "Name": "Item_Consumable_PhysicalPowerPotion_T02",
+    "Id": -1568756102
+  },
+  {
+    "Name": "Item_Consumable_PrisonPotion",
+    "Id": 828432508
+  },
+  {
+    "Name": "Item_Consumable_PrisonPotion_Bloodwine",
+    "Id": 1223264867
+  },
+  {
+    "Name": "Item_Consumable_PrisonPotion_Mixed",
+    "Id": 2063723255
+  },
+  {
+    "Name": "Item_Consumable_Salve_Vermin",
+    "Id": -1885959251
+  },
+  {
+    "Name": "Item_Consumable_SilverResistancePotion_T01",
+    "Id": 272647158
+  },
+  {
+    "Name": "Item_Consumable_SilverResistancePotion_T02",
+    "Id": 2107622409
+  },
+  {
+    "Name": "Item_Consumable_SpellPowerPotion_T01",
+    "Id": 248289327
+  },
+  {
+    "Name": "Item_Consumable_SpellPowerPotion_T02",
+    "Id": 1510182325
+  },
+  {
+    "Name": "Item_Consumable_SunResistancePotion_T01",
+    "Id": -38051433
+  },
+  {
+    "Name": "Item_Consumable_TrippyShroom",
+    "Id": -1566269773
+  },
+  {
+    "Name": "Item_Consumable_Waterskin_Water_T01",
+    "Id": -1322000172
+  },
+  {
+    "Name": "Item_Consumable_WranglersPotion_T01",
+    "Id": 541321301
+  },
+  {
+    "Name": "Item_Dummy_Banshee",
+    "Id": -1513937321
+  },
+  {
+    "Name": "Item_Dummy_Ghoul",
+    "Id": 2042311455
+  },
+  {
+    "Name": "Item_Dummy_GiantRat",
+    "Id": 213967097
+  },
+  {
+    "Name": "Item_Dummy_Mosquito",
+    "Id": 961990006
+  },
+  {
+    "Name": "Item_Dummy_Mutant",
+    "Id": -338333923
+  },
+  {
+    "Name": "Item_Dummy_Necromancer",
+    "Id": 1252366498
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T01_BloodSoul",
+    "Id": 1395316286
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T01_Knowledge",
+    "Id": 215017089
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T01_Minerals",
+    "Id": -2141642225
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T01_Seeds",
+    "Id": -112151309
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T01_Weapons",
+    "Id": 886819019
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T02_Alchemy",
+    "Id": 34841965
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T02_BloodSoul",
+    "Id": -107137497
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T02_Knowledge",
+    "Id": 1452779821
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T02_Minerals",
+    "Id": -364321170
+  },
+  {
+    "Name": "Item_Dummy_NetherDemon_T02_Weapons",
+    "Id": -1199531707
+  },
+  {
+    "Name": "Item_Dummy_PutridRat",
+    "Id": 927039475
+  },
+  {
+    "Name": "Item_Dummy_Rat",
+    "Id": 2029158532
+  },
+  {
+    "Name": "Item_Dummy_Silkworm",
+    "Id": 930747930
+  },
+  {
+    "Name": "Item_Dummy_Skeleton",
+    "Id": -836889492
+  },
+  {
+    "Name": "Item_Dummy_Spiderling",
+    "Id": 2015299972
+  },
+  {
+    "Name": "Item_Elixir_Bat_T01",
+    "Id": -2102469163
+  },
+  {
+    "Name": "Item_Elixir_Beast_T01",
+    "Id": 98952351
+  },
+  {
+    "Name": "Item_Elixir_Blasphemous_T01",
+    "Id": -978856806
+  },
+  {
+    "Name": "Item_Elixir_Crow_T01",
+    "Id": 904226111
+  },
+  {
+    "Name": "Item_Elixir_Prowler_T01",
+    "Id": 1186268870
+  },
+  {
+    "Name": "Item_Elixir_Raven_T01",
+    "Id": -1561468105
+  },
+  {
+    "Name": "Item_Elixir_Twisted_T01",
+    "Id": 1646351394
+  },
+  {
+    "Name": "Item_Elixir_Werewolf_T01",
+    "Id": 948466634
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_BloodKey_T01",
+    "Id": -502657668
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_General",
+    "Id": 1713274869
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_Soulshard_Dracula",
+    "Id": -504120321
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_Soulshard_Manticore",
+    "Id": 1002452390
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_Soulshard_Morgana",
+    "Id": -251408621
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_Soulshard_Solarus",
+    "Id": 329820611
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_Soulshard_TheMonster",
+    "Id": 403228886
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Blood",
+    "Id": -1913267809
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Chaos",
+    "Id": 70790760
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Frost",
+    "Id": -1966309638
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Illusion",
+    "Id": 758351209
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Storm",
+    "Id": -1294665102
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T06_Unholy",
+    "Id": -1970668481
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Blood",
+    "Id": -331907553
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Chaos",
+    "Id": -298146452
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Frost",
+    "Id": 537568578
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Illusion",
+    "Id": 1623411847
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Storm",
+    "Id": 1466670454
+  },
+  {
+    "Name": "Item_EquipBuff_MagicSource_T08_Unholy",
+    "Id": -1635653575
+  },
+  {
+    "Name": "Item_EquipBuff_Shared_General",
+    "Id": 343359674
+  },
+  {
+    "Name": "Item_Gloves_T00_StartingRags",
+    "Id": 1216450741
+  },
+  {
+    "Name": "Item_Gloves_T01_Bone",
+    "Id": -2029933415
+  },
+  {
+    "Name": "Item_Gloves_T02_BoneReinforced",
+    "Id": 1746537832
+  },
+  {
+    "Name": "Item_Gloves_T03_Cloth",
+    "Id": -1183157751
+  },
+  {
+    "Name": "Item_Gloves_T04_Copper_Brute",
+    "Id": -258808647
+  },
+  {
+    "Name": "Item_Gloves_T04_Copper_Rogue",
+    "Id": 181112381
+  },
+  {
+    "Name": "Item_Gloves_T04_Copper_Scholar",
+    "Id": -399521517
+  },
+  {
+    "Name": "Item_Gloves_T04_Copper_Warrior",
+    "Id": -752418019
+  },
+  {
+    "Name": "Item_Gloves_T05_Cotton",
+    "Id": -406808302
+  },
+  {
+    "Name": "Item_Gloves_T06_Iron_Brute",
+    "Id": -327754127
+  },
+  {
+    "Name": "Item_Gloves_T06_Iron_Rogue",
+    "Id": 322804535
+  },
+  {
+    "Name": "Item_Gloves_T06_Iron_Scholar",
+    "Id": 1247389106
+  },
+  {
+    "Name": "Item_Gloves_T06_Iron_Warrior",
+    "Id": 1067300584
+  },
+  {
+    "Name": "Item_Gloves_T07_Silk",
+    "Id": 2055058719
+  },
+  {
+    "Name": "Item_Gloves_T08_DarkSilver_Brute",
+    "Id": 998240678
+  },
+  {
+    "Name": "Item_Gloves_T08_DarkSilver_Rogue",
+    "Id": -1752332712
+  },
+  {
+    "Name": "Item_Gloves_T08_DarkSilver_Scholar",
+    "Id": 1508214166
+  },
+  {
+    "Name": "Item_Gloves_T08_DarkSilver_Warrior",
+    "Id": -1296203752
+  },
+  {
+    "Name": "Item_Gloves_T09_Dracula",
+    "Id": -204401621
+  },
+  {
+    "Name": "Item_Gloves_T09_Dracula_Brute",
+    "Id": 1039083725
+  },
+  {
+    "Name": "Item_Gloves_T09_Dracula_Rogue",
+    "Id": -1826382550
+  },
+  {
+    "Name": "Item_Gloves_T09_Dracula_Scholar",
+    "Id": -1899539896
+  },
+  {
+    "Name": "Item_Gloves_T09_Dracula_Warrior",
+    "Id": 1982551454
+  },
+  {
+    "Name": "Item_Gloves_T0X_BlackfangSultan",
+    "Id": -749828559
+  },
+  {
+    "Name": "Item_Gloves_T0X_PMK01",
+    "Id": -1522497513
+  },
+  {
+    "Name": "Item_Gloves_T0X_VampireKnight",
+    "Id": -745793193
+  },
+  {
+    "Name": "Item_Headgear_ArcMageCrown",
+    "Id": -2128818978
+  },
+  {
+    "Name": "Item_Headgear_AshfolkCrown",
+    "Id": -1988816037
+  },
+  {
+    "Name": "Item_Headgear_AshfolkHelmet",
+    "Id": -1607893829
+  },
+  {
+    "Name": "Item_Headgear_BearTrophy",
+    "Id": 714007172
+  },
+  {
+    "Name": "Item_Headgear_BlackfangSultan",
+    "Id": 1729289046
+  },
+  {
+    "Name": "Item_Headgear_BoneMask",
+    "Id": -2111388989
+  },
+  {
+    "Name": "Item_Headgear_Bonnet",
+    "Id": -152150271
+  },
+  {
+    "Name": "Item_Headgear_DeerTrophy",
+    "Id": 1707139699
+  },
+  {
+    "Name": "Item_Headgear_DraculaHelmet",
+    "Id": 238268650
+  },
+  {
+    "Name": "Item_Headgear_FootmansHelmet",
+    "Id": -353076115
+  },
+  {
+    "Name": "Item_Headgear_GeneralHelmet",
+    "Id": 409678749
+  },
+  {
+    "Name": "Item_Headgear_KnightsHelmet",
+    "Id": -1818243335
+  },
+  {
+    "Name": "Item_Headgear_MaidCap",
+    "Id": -1721887666
+  },
+  {
+    "Name": "Item_Headgear_MaidScarf",
+    "Id": -1460281233
+  },
+  {
+    "Name": "Item_Headgear_MilitiaHelmet",
+    "Id": 417648894
+  },
+  {
+    "Name": "Item_Headgear_NecromancerMitre",
+    "Id": 607559019
+  },
+  {
+    "Name": "Item_Headgear_NightlurkerTrophy",
+    "Id": -2073081569
+  },
+  {
+    "Name": "Item_Headgear_PaladinsHelmet",
+    "Id": 1780339680
+  },
+  {
+    "Name": "Item_Headgear_PilgrimsHat",
+    "Id": -1071187362
+  },
+  {
+    "Name": "Item_Headgear_Plaguemaster",
+    "Id": -262204844
+  },
+  {
+    "Name": "Item_Headgear_PopeMitre",
+    "Id": -548847761
+  },
+  {
+    "Name": "Item_Headgear_RazerHood",
+    "Id": -1797796642
+  },
+  {
+    "Name": "Item_Headgear_RustedHelmet",
+    "Id": 1364460757
+  },
+  {
+    "Name": "Item_Headgear_RustedMilitiaHelmet",
+    "Id": 764480170
+  },
+  {
+    "Name": "Item_Headgear_Scarecrow",
+    "Id": 403967307
+  },
+  {
+    "Name": "Item_Headgear_SlaveHelmet",
+    "Id": 1587354182
+  },
+  {
+    "Name": "Item_Headgear_StartingRags",
+    "Id": -2125696865
+  },
+  {
+    "Name": "Item_Headgear_Strawhat",
+    "Id": 1375804543
+  },
+  {
+    "Name": "Item_Headgear_TopHat",
+    "Id": 690259405
+  },
+  {
+    "Name": "Item_Headgear_VampireHunterHat",
+    "Id": 974739126
+  },
+  {
+    "Name": "Item_Headgear_VampireHunterHat02",
+    "Id": -1785271534
+  },
+  {
+    "Name": "Item_Headgear_WerewolfTrophy",
+    "Id": -2020831626
+  },
+  {
+    "Name": "Item_Headgear_WolfTrophy01",
+    "Id": -1169471531
+  },
+  {
+    "Name": "Item_Ingredient_BatHide",
+    "Id": 1262845777
+  },
+  {
+    "Name": "Item_Ingredient_BatLeather",
+    "Id": -1886460367
+  },
+  {
+    "Name": "Item_Ingredient_Battery",
+    "Id": 1270271716
+  },
+  {
+    "Name": "Item_Ingredient_BatteryCharged",
+    "Id": -412448857
+  },
+  {
+    "Name": "Item_Ingredient_BloodCrystal",
+    "Id": -1913156733
+  },
+  {
+    "Name": "Item_Ingredient_Bone",
+    "Id": 1821405450
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T04_Brute",
+    "Id": 362386181
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T04_Rogue",
+    "Id": -383004511
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T04_Scholar",
+    "Id": -1601304786
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T04_Warrior",
+    "Id": -668460646
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T06_Brute",
+    "Id": 1529216919
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T06_Rogue",
+    "Id": 762038154
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T06_Scholar",
+    "Id": -1147510581
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T06_Warrior",
+    "Id": -1788912715
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T08_Brute",
+    "Id": -534142437
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T08_Rogue",
+    "Id": -706178162
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T08_Scholar",
+    "Id": -1958602686
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Boots_T08_Warrior",
+    "Id": 1192629421
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T04_Brute",
+    "Id": 1850873910
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T04_Rogue",
+    "Id": -849449432
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T04_Scholar",
+    "Id": 2025615662
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T04_Warrior",
+    "Id": 1753801067
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T06_Brute",
+    "Id": 626083889
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T06_Rogue",
+    "Id": -1595316636
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T06_Scholar",
+    "Id": -2066262923
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T06_Warrior",
+    "Id": 1561721357
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T08_Brute",
+    "Id": -1261118965
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T08_Rogue",
+    "Id": 502133568
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T08_Scholar",
+    "Id": -1840162782
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Chest_T08_Warrior",
+    "Id": -1161279574
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T04_Brute",
+    "Id": -764630320
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T04_Rogue",
+    "Id": 1014370193
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T04_Scholar",
+    "Id": 1840869087
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T04_Warrior",
+    "Id": -1242910338
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T06_Brute",
+    "Id": -1344118299
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T06_Rogue",
+    "Id": 735880687
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T06_Scholar",
+    "Id": -46006079
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T06_Warrior",
+    "Id": -777417289
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T08_Brute",
+    "Id": 2020764183
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T08_Rogue",
+    "Id": 1485993952
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T08_Scholar",
+    "Id": -1512099553
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Gloves_T08_Warrior",
+    "Id": -196284663
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T04_Brute",
+    "Id": 1172935197
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T04_Rogue",
+    "Id": 1364444719
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T04_Scholar",
+    "Id": -117205517
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T04_Warrior",
+    "Id": 347441899
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T06_Brute",
+    "Id": 1328323768
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T06_Rogue",
+    "Id": 1912738568
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T06_Scholar",
+    "Id": -595456862
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T06_Warrior",
+    "Id": -1718233147
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T08_Brute",
+    "Id": -996201260
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T08_Rogue",
+    "Id": -1260890289
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T08_Scholar",
+    "Id": -2049321404
+  },
+  {
+    "Name": "Item_Ingredient_Book_Armor_Legs_T08_Warrior",
+    "Id": -2104396934
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_BloodRoseBrew_T01",
+    "Id": -895015382
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_FireResistance_T02",
+    "Id": 2114304481
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_GarlicResistance_T02",
+    "Id": 791584738
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_PhysicalPower_T01",
+    "Id": 1556544548
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_PhysicalPower_T03",
+    "Id": -2013887729
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_SilverBrew_T01",
+    "Id": -1269116849
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_SpellPower_T01",
+    "Id": 492964298
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_SpellPower_T03",
+    "Id": -1563178470
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_SunResistance_T01",
+    "Id": 756555009
+  },
+  {
+    "Name": "Item_Ingredient_Book_Consumable_Wranglers_T02",
+    "Id": -1242947472
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_AlchemyLab",
+    "Id": 978074988
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Forge",
+    "Id": -1233700610
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Jewelcrafting",
+    "Id": 626118128
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Library",
+    "Id": -946177070
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Prison",
+    "Id": 1718353003
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Tailor",
+    "Id": -137886670
+  },
+  {
+    "Name": "Item_Ingredient_Book_Floor_Workshop",
+    "Id": 1906638073
+  },
+  {
+    "Name": "Item_Ingredient_Book_Interior_Planters",
+    "Id": 1336896559
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_Duskwatcher",
+    "Id": -293419350
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_EmberChain",
+    "Id": -1542642288
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_FrozenEye",
+    "Id": -1913800363
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_MistSignet",
+    "Id": 1310923765
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_RubyRing",
+    "Id": 350769859
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T04_SorcererRing",
+    "Id": 1458090717
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_AmethystPendant",
+    "Id": 587164554
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_EmeraldNecklace",
+    "Id": -224716062
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_MistStoneNecklace",
+    "Id": 759775881
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_RubyPendant",
+    "Id": -1658630722
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_SapphirePendant",
+    "Id": 1939500376
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T06_TopazAmulet",
+    "Id": 1474515294
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_Beast",
+    "Id": 1702347530
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_CrimsonSky",
+    "Id": -1063966176
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_Delusion",
+    "Id": -1803818846
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_FrozenCrypt",
+    "Id": -749171183
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_Madness",
+    "Id": -1424521314
+  },
+  {
+    "Name": "Item_Ingredient_Book_MagicSource_T08_WickedProphet",
+    "Id": 860383634
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_ArtisanTable",
+    "Id": -1221174479
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Braziers_T02",
+    "Id": 742900616
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Braziers_T03",
+    "Id": 835610037
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_CandleStands_T02",
+    "Id": 1341367867
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Carpets_T01",
+    "Id": 1383064284
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Carpets_T02_Dux",
+    "Id": -96701352
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Carpets_T03_Distinguished",
+    "Id": -1696677607
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Chairs_Desk_T02",
+    "Id": 389446538
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Chairs_Red_T02",
+    "Id": -1929817673
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Curtains_T03_Royal",
+    "Id": 285318201
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Desks_T02",
+    "Id": -840839363
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_DressingTablesFoldingWalls_T03",
+    "Id": -1676748911
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_EnchantedTorches",
+    "Id": 879103343
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_FenceFountains_T02",
+    "Id": 679755989
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Fireplaces_T02",
+    "Id": -946597284
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_FlyingCandles_T03",
+    "Id": 1594270493
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Fountain_T03",
+    "Id": -1171060793
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_GardenFurniture_T02",
+    "Id": -1060453249
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_GardenLampPosts_T03",
+    "Id": 776216743
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_GardenPlanters_T01",
+    "Id": 1307976528
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_GardenPlanters_T02",
+    "Id": -1383718976
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_GardenPlanters_T03",
+    "Id": -1645899934
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_HangingLanterns_T02",
+    "Id": -452767162
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Paintings_T01",
+    "Id": 38319072
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Path_Cobblestone_T02",
+    "Id": 2094602185
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Path_Dirt_T01",
+    "Id": -94650344
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_PillarBanners_T02",
+    "Id": -1321865795
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Sofas_T03",
+    "Id": 2053574378
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_StoneOrnaments_T01",
+    "Id": -449615886
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Alchemy_T02",
+    "Id": 11798247
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Alchemy_T03",
+    "Id": -67943596
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Armor_T02",
+    "Id": 207381334
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_BloodCase_T02",
+    "Id": -130369231
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_BloodCase_T03",
+    "Id": 489001758
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Coins_T02",
+    "Id": -832387204
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Consumable_T02",
+    "Id": -1624005683
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Consumable_T03",
+    "Id": 824237901
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Fishing_T02",
+    "Id": -205820651
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Gems_T01",
+    "Id": 1455590675
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Gems_T02",
+    "Id": 1150376281
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Herbs_T01",
+    "Id": -853559619
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Herbs_T02",
+    "Id": 473545520
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Jewels_T02",
+    "Id": -1870194782
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Knowledge_T02",
+    "Id": -1394295910
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Knowledge_T03",
+    "Id": 1823379076
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Minerals_T01",
+    "Id": -513865346
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Minerals_T02",
+    "Id": -1061940339
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Pack_Equipment_T02",
+    "Id": 1249076837
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Pack_T01",
+    "Id": 686122001
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Pack_T02",
+    "Id": 1519475093
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_T01",
+    "Id": -651642571
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_T02",
+    "Id": -999518496
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_T03",
+    "Id": 1691702273
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Tailoring_T02",
+    "Id": -1304625582
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Tailoring_T03",
+    "Id": -63123159
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Weapons_T02",
+    "Id": -1564741377
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Woodworking_T01",
+    "Id": 1040245278
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Storage_Woodworking_T02",
+    "Id": 206151993
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Tables_T02",
+    "Id": -1236809045
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Vases_T01",
+    "Id": 1428883363
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_Bricks_T01",
+    "Id": -1957642407
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_Classical_T03",
+    "Id": 1884115881
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_Cordial_T02",
+    "Id": -581757157
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_Prison_T02",
+    "Id": -2086890414
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_Stone_T01",
+    "Id": -2017255390
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Wallpaper_WoodPanel_T01",
+    "Id": -106224889
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Well_T01",
+    "Id": -1205373095
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_Windows_T01",
+    "Id": 1905539368
+  },
+  {
+    "Name": "Item_Ingredient_Book_Structure_WorkshopDecoration_T02",
+    "Id": 1413772406
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Axe_T04",
+    "Id": 660670410
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Axe_T06",
+    "Id": -1596352033
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Axe_T08",
+    "Id": -1519267007
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Claws_T06",
+    "Id": 574313564
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Claws_T08",
+    "Id": -213056154
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Crossbow_T04",
+    "Id": -192381912
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Crossbow_T06",
+    "Id": 937375187
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Crossbow_T08",
+    "Id": 1856338018
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Daggers_T06",
+    "Id": 1253216070
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Daggers_T08",
+    "Id": 1271236919
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_GreatSword_T06",
+    "Id": 1126901893
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_GreatSword_T08",
+    "Id": 730869315
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Longbow_T04",
+    "Id": 460843266
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Longbow_T06",
+    "Id": -1793793429
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Longbow_T08",
+    "Id": 722498174
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Mace_T04",
+    "Id": -1003381140
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Mace_T06",
+    "Id": 1526542305
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Mace_T08",
+    "Id": -567468235
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Pistols_T06",
+    "Id": 1370998844
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Pistols_T08",
+    "Id": -349470582
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Reaper_T06",
+    "Id": -977419819
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Reaper_T08",
+    "Id": 1350548439
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Slashers_T06",
+    "Id": 1942009728
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Slashers_T08",
+    "Id": 615301463
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Spear_T04",
+    "Id": -1690985210
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Spear_T06",
+    "Id": -1783670291
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Spear_T08",
+    "Id": -1396190808
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Sword_T04",
+    "Id": -1455124124
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Sword_T06",
+    "Id": 1427084419
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Sword_T08",
+    "Id": 1075465533
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_TwinBlades_T06",
+    "Id": -457986654
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_TwinBlades_T08",
+    "Id": 1200302278
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Whip_T06",
+    "Id": 710159072
+  },
+  {
+    "Name": "Item_Ingredient_Book_Weapon_Whip_T08",
+    "Id": -1033721040
+  },
+  {
+    "Name": "Item_Ingredient_CarpetRoll",
+    "Id": 1046366876
+  },
+  {
+    "Name": "Item_Ingredient_CastleKey_T01",
+    "Id": 960030104
+  },
+  {
+    "Name": "Item_Ingredient_CastleKey_T02",
+    "Id": 724428437
+  },
+  {
+    "Name": "Item_Ingredient_CastleKey_T03",
+    "Id": -950839771
+  },
+  {
+    "Name": "Item_Ingredient_CastleKey_T04",
+    "Id": 551949280
+  },
+  {
+    "Name": "Item_Ingredient_CastleUpkeep_Fake",
+    "Id": 421203343
+  },
+  {
+    "Name": "Item_Ingredient_Chitin",
+    "Id": -953253466
+  },
+  {
+    "Name": "Item_Ingredient_Clay",
+    "Id": 317317590
+  },
+  {
+    "Name": "Item_Ingredient_ClayMold",
+    "Id": -1257026088
+  },
+  {
+    "Name": "Item_Ingredient_Cloth",
+    "Id": -700774739
+  },
+  {
+    "Name": "Item_Ingredient_Coal",
+    "Id": -1932461974
+  },
+  {
+    "Name": "Item_Ingredient_Coin_Copper",
+    "Id": 28625845
+  },
+  {
+    "Name": "Item_Ingredient_Coin_Royal",
+    "Id": -571562864
+  },
+  {
+    "Name": "Item_Ingredient_Coin_Silver",
+    "Id": -949672483
+  },
+  {
+    "Name": "Item_Ingredient_CopperWires",
+    "Id": -456161884
+  },
+  {
+    "Name": "Item_Ingredient_CorruptedSap",
+    "Id": 2012771684
+  },
+  {
+    "Name": "Item_Ingredient_CottonYarn",
+    "Id": 444400639
+  },
+  {
+    "Name": "Item_Ingredient_Crystal",
+    "Id": -257494203
+  },
+  {
+    "Name": "Item_Ingredient_DemonFragment",
+    "Id": -77477508
+  },
+  {
+    "Name": "Item_Ingredient_Document",
+    "Id": 1334469825
+  },
+  {
+    "Name": "Item_Ingredient_Emberglass",
+    "Id": -1715039285
+  },
+  {
+    "Name": "Item_Ingredient_Emery",
+    "Id": -1578565561
+  },
+  {
+    "Name": "Item_Ingredient_Fish_BloodSnapper_T02",
+    "Id": -1779269313
+  },
+  {
+    "Name": "Item_Ingredient_Fish_Corrupted_T03",
+    "Id": 2069171407
+  },
+  {
+    "Name": "Item_Ingredient_Fish_FatGoby_T01",
+    "Id": -1642545082
+  },
+  {
+    "Name": "Item_Ingredient_Fish_FierceStinger_T01",
+    "Id": 447901086
+  },
+  {
+    "Name": "Item_Ingredient_Fish_GoldenRiverBass_T03",
+    "Id": 67930804
+  },
+  {
+    "Name": "Item_Ingredient_Fish_RainbowTrout_T01",
+    "Id": -149778795
+  },
+  {
+    "Name": "Item_Ingredient_Fish_SageFish_T02",
+    "Id": 736318803
+  },
+  {
+    "Name": "Item_Ingredient_Fish_SwampDweller_T03",
+    "Id": 177845365
+  },
+  {
+    "Name": "Item_Ingredient_Fish_TheFish",
+    "Id": 176401052
+  },
+  {
+    "Name": "Item_Ingredient_Fish_TwilightSnapper_T02",
+    "Id": -570287766
+  },
+  {
+    "Name": "Item_Ingredient_FishBone",
+    "Id": 424158416
+  },
+  {
+    "Name": "Item_Ingredient_Fishoil",
+    "Id": -242277891
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Amethyst_T01",
+    "Id": 225530658
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Amethyst_T02",
+    "Id": -1962855117
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Amethyst_T03",
+    "Id": 1705028227
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Amethyst_T04",
+    "Id": -106283194
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Base",
+    "Id": -656822228
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Emerald_T01",
+    "Id": -237441421
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Emerald_T02",
+    "Id": 357608868
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Emerald_T03",
+    "Id": 1898237421
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Emerald_T04",
+    "Id": 1354115931
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Miststone_T01",
+    "Id": -1129708579
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Miststone_T02",
+    "Id": 802050789
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Miststone_T03",
+    "Id": -1963826510
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Miststone_T04",
+    "Id": 750542699
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Ruby_T01",
+    "Id": 287586809
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Ruby_T02",
+    "Id": 51046573
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Ruby_T03",
+    "Id": 74811721
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Ruby_T04",
+    "Id": 188653143
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Sapphire_T01",
+    "Id": 552409457
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Sapphire_T02",
+    "Id": 131015492
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Sapphire_T03",
+    "Id": -1147920398
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Sapphire_T04",
+    "Id": -2020212226
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Topaz_T01",
+    "Id": 867351268
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Topaz_T02",
+    "Id": -2118441460
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Topaz_T03",
+    "Id": -2051574178
+  },
+  {
+    "Name": "Item_Ingredient_Gem_Topaz_T04",
+    "Id": -1983566585
+  },
+  {
+    "Name": "Item_Ingredient_Gemdust",
+    "Id": 820932258
+  },
+  {
+    "Name": "Item_Ingredient_Gemstone",
+    "Id": 2115367516
+  },
+  {
+    "Name": "Item_Ingredient_GhostYarn",
+    "Id": 2106123809
+  },
+  {
+    "Name": "Item_Ingredient_Glass",
+    "Id": -1233716303
+  },
+  {
+    "Name": "Item_Ingredient_GoldenJewelry",
+    "Id": -1749304196
+  },
+  {
+    "Name": "Item_Ingredient_Gravedust",
+    "Id": -608131642
+  },
+  {
+    "Name": "Item_Ingredient_IronBody",
+    "Id": 988417522
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Base",
+    "Id": 1413130999
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Blacksmith_T02",
+    "Id": -167936394
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Blacksmith_T03",
+    "Id": -580716317
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Blacksmith_T04",
+    "Id": -1838793646
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Magic_T04",
+    "Id": 1488205677
+  },
+  {
+    "Name": "Item_Ingredient_Kit_Tailoring_T04",
+    "Id": 828271620
+  },
+  {
+    "Name": "Item_Ingredient_Leather",
+    "Id": -1907572080
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_Fish",
+    "Id": 193249843
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_GemVein_T02",
+    "Id": 889298519
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_GemVein_T03",
+    "Id": 301051123
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_Plants",
+    "Id": 968796494
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_Potions",
+    "Id": -1617671082
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_Tesla",
+    "Id": -77555820
+  },
+  {
+    "Name": "Item_Ingredient_MapZone_Vendor",
+    "Id": -696770536
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_CopperIngot",
+    "Id": -1237019921
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_CopperOre",
+    "Id": -1805325497
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_DarkSilverBar",
+    "Id": -762000259
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_GhostCrystal",
+    "Id": -1748835106
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_GoldBar",
+    "Id": -1027710236
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_GoldOre",
+    "Id": 660533034
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_IronBar",
+    "Id": -1750550553
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_IronOre",
+    "Id": 1332980397
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_Obsidian",
+    "Id": -543524210
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_Quartz",
+    "Id": -1583485601
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_SilverBar",
+    "Id": -1787563914
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_SilverOre",
+    "Id": 1686577386
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_Sulfur",
+    "Id": 880699252
+  },
+  {
+    "Name": "Item_Ingredient_Mineral_SulfurOre",
+    "Id": 1501868129
+  },
+  {
+    "Name": "Item_Ingredient_MutantGrease",
+    "Id": -1527315816
+  },
+  {
+    "Name": "Item_Ingredient_OnyxTear",
+    "Id": -651878258
+  },
+  {
+    "Name": "Item_Ingredient_PaintingFrame",
+    "Id": 1553481703
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_ArcaneAnimator",
+    "Id": 806031638
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_BloodSpray",
+    "Id": 1561531999
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_BloodTypeEfficiency",
+    "Id": -1012087769
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_ChaosKindling",
+    "Id": -744023422
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_ChillWeave",
+    "Id": 1314569175
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_ColdSoul",
+    "Id": 759629166
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_EnhancedConductivity",
+    "Id": -295674777
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_FlowingSorcery",
+    "Id": 1532551951
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_LightningFastStrikes",
+    "Id": 177536500
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_RenewingFlames",
+    "Id": 201124833
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_SoulDrinker",
+    "Id": -1150810012
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T01_SpiritualInfusion",
+    "Id": -1645974345
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_Bastion",
+    "Id": 583764996
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_DarkEnchantment",
+    "Id": -1289785922
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_EmbraceMayhem",
+    "Id": -1305686817
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_FeralHaste",
+    "Id": 1725419936
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_HungerForPower",
+    "Id": -1361596609
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_LethalStrikes",
+    "Id": 765693103
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_Overpower",
+    "Id": -1402113736
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_Rampage",
+    "Id": 1913822231
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_RavenousStrikes",
+    "Id": 1703128595
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_TurbulentVelocity",
+    "Id": -1381982890
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_VBloodSlayer",
+    "Id": -1034273124
+  },
+  {
+    "Name": "Item_Ingredient_Passive_T02_WickedPower",
+    "Id": 814603706
+  },
+  {
+    "Name": "Item_Ingredient_Plank",
+    "Id": -1017402979
+  },
+  {
+    "Name": "Item_Ingredient_Plant_BleedingHeart",
+    "Id": -135435342
+  },
+  {
+    "Name": "Item_Ingredient_Plant_BloodRose",
+    "Id": 1726420644
+  },
+  {
+    "Name": "Item_Ingredient_Plant_CorruptedFlower",
+    "Id": -926928101
+  },
+  {
+    "Name": "Item_Ingredient_Plant_Cotton",
+    "Id": 362941759
+  },
+  {
+    "Name": "Item_Ingredient_Plant_FireBlossom",
+    "Id": 455638025
+  },
+  {
+    "Name": "Item_Ingredient_Plant_GhostShroom",
+    "Id": -164367832
+  },
+  {
+    "Name": "Item_Ingredient_Plant_HellsClarion",
+    "Id": 813370507
+  },
+  {
+    "Name": "Item_Ingredient_Plant_MourningLily",
+    "Id": -363718499
+  },
+  {
+    "Name": "Item_Ingredient_Plant_PlagueBrier",
+    "Id": 1474643910
+  },
+  {
+    "Name": "Item_Ingredient_Plant_PlantFiber",
+    "Id": -1409142667
+  },
+  {
+    "Name": "Item_Ingredient_Plant_RadiantFiber",
+    "Id": -182923609
+  },
+  {
+    "Name": "Item_Ingredient_Plant_SacredGrapes",
+    "Id": 88009216
+  },
+  {
+    "Name": "Item_Ingredient_Plant_SnowFlower",
+    "Id": 106516056
+  },
+  {
+    "Name": "Item_Ingredient_Plant_Sunflower",
+    "Id": 1105981714
+  },
+  {
+    "Name": "Item_Ingredient_Plant_Thistle",
+    "Id": -598100816
+  },
+  {
+    "Name": "Item_Ingredient_Pollen",
+    "Id": 855691699
+  },
+  {
+    "Name": "Item_Ingredient_PowerCore",
+    "Id": -1190647720
+  },
+  {
+    "Name": "Item_Ingredient_PristineHide",
+    "Id": 1658596502
+  },
+  {
+    "Name": "Item_Ingredient_PristineLeather",
+    "Id": -2043983118
+  },
+  {
+    "Name": "Item_Ingredient_RadiumAlloy",
+    "Id": 2116142390
+  },
+  {
+    "Name": "Item_Ingredient_ReinforcedPlank",
+    "Id": -1397591435
+  },
+  {
+    "Name": "Item_Ingredient_Research_Paper",
+    "Id": 780044299
+  },
+  {
+    "Name": "Item_Ingredient_Research_Schematic",
+    "Id": 2085163661
+  },
+  {
+    "Name": "Item_Ingredient_Research_Scroll",
+    "Id": 2065714452
+  },
+  {
+    "Name": "Item_Ingredient_Resonator",
+    "Id": -1629804427
+  },
+  {
+    "Name": "Item_Ingredient_RuggedHide",
+    "Id": -1222725729
+  },
+  {
+    "Name": "Item_Ingredient_Sawdust",
+    "Id": -1979905169
+  },
+  {
+    "Name": "Item_Ingredient_Scales",
+    "Id": -1199259626
+  },
+  {
+    "Name": "Item_Ingredient_Scourgestone",
+    "Id": 1005440012
+  },
+  {
+    "Name": "Item_Ingredient_SculpturedWood",
+    "Id": -793913499
+  },
+  {
+    "Name": "Item_Ingredient_ShadowWeave",
+    "Id": -1458997116
+  },
+  {
+    "Name": "Item_Ingredient_Silk",
+    "Id": 702067317
+  },
+  {
+    "Name": "Item_Ingredient_Silkworm",
+    "Id": -11246506
+  },
+  {
+    "Name": "Item_Ingredient_Spectraldust",
+    "Id": -2130812821
+  },
+  {
+    "Name": "Item_Ingredient_Stone",
+    "Id": -1531666018
+  },
+  {
+    "Name": "Item_Ingredient_StoneBody",
+    "Id": 689272399
+  },
+  {
+    "Name": "Item_Ingredient_StoneBrick",
+    "Id": 1788016417
+  },
+  {
+    "Name": "Item_Ingredient_Stonedust",
+    "Id": 1388962120
+  },
+  {
+    "Name": "Item_Ingredient_TechScrap",
+    "Id": 834864259
+  },
+  {
+    "Name": "Item_Ingredient_ThickHide",
+    "Id": -2047402903
+  },
+  {
+    "Name": "Item_Ingredient_ThickLeather",
+    "Id": -305160765
+  },
+  {
+    "Name": "Item_Ingredient_Thread_Coarse",
+    "Id": -1562867444
+  },
+  {
+    "Name": "Item_Ingredient_Thread_Imperial",
+    "Id": -898917584
+  },
+  {
+    "Name": "Item_Ingredient_Thread_Wool",
+    "Id": 1872733144
+  },
+  {
+    "Name": "Item_Ingredient_Vampiricdust",
+    "Id": 805157024
+  },
+  {
+    "Name": "Item_Ingredient_Whetstone",
+    "Id": 1252507075
+  },
+  {
+    "Name": "Item_Ingredient_Witchdust",
+    "Id": -223452038
+  },
+  {
+    "Name": "Item_Ingredient_Wood_CorruptedOak",
+    "Id": 440780337
+  },
+  {
+    "Name": "Item_Ingredient_Wood_Cursed",
+    "Id": 608397239
+  },
+  {
+    "Name": "Item_Ingredient_Wood_Gloom",
+    "Id": -1740500585
+  },
+  {
+    "Name": "Item_Ingredient_Wood_Hallow",
+    "Id": -2014020548
+  },
+  {
+    "Name": "Item_Ingredient_Wood_Standard",
+    "Id": -1593377811
+  },
+  {
+    "Name": "Item_Jewel_Blood_T01",
+    "Id": -113436752
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02",
+    "Id": -996555621
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_BloodFountain",
+    "Id": -1624411159
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_BloodRage",
+    "Id": 343217159
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_BloodRite",
+    "Id": -2059886133
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_CarrionSwarm",
+    "Id": -585346267
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_SanguineCoil",
+    "Id": 75934448
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_Shadowbolt",
+    "Id": 918613164
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_VampiricCurse",
+    "Id": -1337809256
+  },
+  {
+    "Name": "Item_Jewel_Blood_T02_VeilOfBlood",
+    "Id": -431964258
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03",
+    "Id": -41686151
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_BloodFountain",
+    "Id": -312598876
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_BloodRage",
+    "Id": -1952560879
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_BloodRite",
+    "Id": 1881059081
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_CarrionSwarm",
+    "Id": 519281449
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_SanguineCoil",
+    "Id": 1785926321
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_Shadowbolt",
+    "Id": 738473666
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_VampiricCurse",
+    "Id": -2137054310
+  },
+  {
+    "Name": "Item_Jewel_Blood_T03_VeilOfBlood",
+    "Id": -1302801575
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04",
+    "Id": 271061481
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_BloodFountain",
+    "Id": 1755478077
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_BloodRage",
+    "Id": 662891042
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_BloodRite",
+    "Id": 1799289635
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_CarrionSwarm",
+    "Id": 1499979825
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_SanguineCoil",
+    "Id": -562511117
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_Shadowbolt",
+    "Id": 1279283644
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_VampiricCurse",
+    "Id": -1844141622
+  },
+  {
+    "Name": "Item_Jewel_Blood_T04_VeilOfBlood",
+    "Id": 1692133021
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T01",
+    "Id": 2130810069
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02",
+    "Id": 1083105737
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_Aftershock",
+    "Id": 1035334240
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_ChaosBarrier",
+    "Id": 1112619884
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_ChaosVolley",
+    "Id": 1243967840
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_PowerSurge",
+    "Id": 1168555540
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_RainOfChaos",
+    "Id": -1674555897
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_VeilOfChaos",
+    "Id": -2133879652
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T02_Void",
+    "Id": 157004582
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03",
+    "Id": -1601295908
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_Aftershock",
+    "Id": 685024499
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_ChaosBarrier",
+    "Id": -209873380
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_ChaosVolley",
+    "Id": -1111771702
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_PowerSurge",
+    "Id": -1090887222
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_RainOfChaos",
+    "Id": -322544495
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_VeilOfChaos",
+    "Id": 1613948207
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T03_Void",
+    "Id": -2054797612
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04",
+    "Id": -1796954295
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_Aftershock",
+    "Id": -651841188
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_ChaosBarrier",
+    "Id": -374243736
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_ChaosVolley",
+    "Id": 818069106
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_PowerSurge",
+    "Id": -1166627007
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_RainOfChaos",
+    "Id": -443169356
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_VeilOfChaos",
+    "Id": 155899991
+  },
+  {
+    "Name": "Item_Jewel_Chaos_T04_Void",
+    "Id": 666089763
+  },
+  {
+    "Name": "Item_Jewel_Frost_T01",
+    "Id": 1908312304
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02",
+    "Id": 1030854657
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_ColdSnap",
+    "Id": -441408420
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_CrystalLance",
+    "Id": -390381611
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_FrostBarrier",
+    "Id": 2134082866
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_FrostBat",
+    "Id": -309124704
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_FrostCone",
+    "Id": -269336230
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_IceNova",
+    "Id": -535477182
+  },
+  {
+    "Name": "Item_Jewel_Frost_T02_VeilOfFrost",
+    "Id": -710738056
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03",
+    "Id": 223899244
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_ColdSnap",
+    "Id": 55473000
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_CrystalLance",
+    "Id": 594180030
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_FrostBarrier",
+    "Id": 1381699867
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_FrostBat",
+    "Id": -1530254765
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_FrostCone",
+    "Id": -16130732
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_IceNova",
+    "Id": 1123463900
+  },
+  {
+    "Name": "Item_Jewel_Frost_T03_VeilOfFrost",
+    "Id": -1190496962
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04",
+    "Id": -147757377
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_ColdSnap",
+    "Id": -930352575
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_CrystalLance",
+    "Id": -2117279191
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_FrostBarrier",
+    "Id": -483235215
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_FrostBat",
+    "Id": 1793042384
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_FrostCone",
+    "Id": 320961855
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_IceNova",
+    "Id": 1947940084
+  },
+  {
+    "Name": "Item_Jewel_Frost_T04_VeilOfFrost",
+    "Id": 1729390800
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T01",
+    "Id": 1387124262
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02",
+    "Id": 437696083
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_Curse",
+    "Id": -1255119436
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_MistTrance",
+    "Id": 101601247
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_Mosquito",
+    "Id": -928330249
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_PhantomAegis",
+    "Id": 1123282909
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_SpectralWolf",
+    "Id": 1520619383
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_VeilOfIllusion",
+    "Id": 606339127
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T02_WraithSpear",
+    "Id": 665418354
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03",
+    "Id": 1540217782
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_Curse",
+    "Id": -1952374182
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_MistTrance",
+    "Id": -1513121786
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_Mosquito",
+    "Id": -826325611
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_PhantomAegis",
+    "Id": 870884715
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_SpectralWolf",
+    "Id": 455494178
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_VeilOfIllusion",
+    "Id": -1206629745
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T03_WraithSpear",
+    "Id": 998259069
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04",
+    "Id": 97169184
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_Curse",
+    "Id": 130269272
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_MistTrance",
+    "Id": 2075997018
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_Mosquito",
+    "Id": 902426262
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_PhantomAegis",
+    "Id": -1766731531
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_SpectralWolf",
+    "Id": -1444759832
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_VeilOfIllusion",
+    "Id": -941913536
+  },
+  {
+    "Name": "Item_Jewel_Illusion_T04_WraithSpear",
+    "Id": -455117097
+  },
+  {
+    "Name": "Item_Jewel_Storm_T01",
+    "Id": -560146452
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02",
+    "Id": 876293388
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_BallLightning",
+    "Id": -1703746731
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_Cyclone",
+    "Id": 994654794
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_Discharge",
+    "Id": -313733383
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_LightningTendrils",
+    "Id": 90716564
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_LightningWall",
+    "Id": 394140527
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_PolarityShift",
+    "Id": -944716649
+  },
+  {
+    "Name": "Item_Jewel_Storm_T02_VeilOfStorm",
+    "Id": -1416449755
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03",
+    "Id": 189228039
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_BallLightning",
+    "Id": 973763812
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_Cyclone",
+    "Id": -341717525
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_Discharge",
+    "Id": 1533847605
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_LightningTendrils",
+    "Id": -703021474
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_LightningWall",
+    "Id": -2134499162
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_PolarityShift",
+    "Id": -844537086
+  },
+  {
+    "Name": "Item_Jewel_Storm_T03_VeilOfStorm",
+    "Id": 182214837
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04",
+    "Id": 2023809276
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_BallLightning",
+    "Id": -1927784576
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_Cyclone",
+    "Id": -1697520941
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_Discharge",
+    "Id": 1448686547
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_LightningTendrils",
+    "Id": 1909654697
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_LightningWall",
+    "Id": -464466648
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_PolarityShift",
+    "Id": -189270614
+  },
+  {
+    "Name": "Item_Jewel_Storm_T04_VeilOfStorm",
+    "Id": -556391992
+  },
+  {
+    "Name": "Item_Jewel_Template",
+    "Id": 1075994038
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T01",
+    "Id": 803445709
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02",
+    "Id": -860388090
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_ChainsOfDeath",
+    "Id": -178249605
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_CorpseExplosion",
+    "Id": 977816262
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_CorruptedSkull",
+    "Id": -1183600395
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_DeathKnight",
+    "Id": -173571027
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_Soulburn",
+    "Id": 1277476884
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_VeilOfBones",
+    "Id": -1347054873
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T02_WardOfTheDamned",
+    "Id": -593608743
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03",
+    "Id": -647547545
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_ChainsOfDeath",
+    "Id": 1042817390
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_CorpseExplosion",
+    "Id": -1123608041
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_CorruptedSkull",
+    "Id": -1508992859
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_DeathKnight",
+    "Id": -318118264
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_Soulburn",
+    "Id": 282707515
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_VeilOfBones",
+    "Id": -1913987811
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T03_WardOfTheDamned",
+    "Id": 665184248
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04",
+    "Id": 1412786604
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_ChainsOfDeath",
+    "Id": -2100613085
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_CorpseExplosion",
+    "Id": -749764415
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_CorruptedSkull",
+    "Id": 140526202
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_DeathKnight",
+    "Id": -340571020
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_Soulburn",
+    "Id": 897635802
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_VeilOfBones",
+    "Id": -1180115034
+  },
+  {
+    "Name": "Item_Jewel_Unholy_T04_WardOfTheDamned",
+    "Id": 1479677538
+  },
+  {
+    "Name": "Item_Legs_T00_StartingRags",
+    "Id": 725607617
+  },
+  {
+    "Name": "Item_Legs_T01_Bone",
+    "Id": 1355823667
+  },
+  {
+    "Name": "Item_Legs_T02_BoneReinforced",
+    "Id": -2036196416
+  },
+  {
+    "Name": "Item_Legs_T03_Cloth",
+    "Id": 1925394440
+  },
+  {
+    "Name": "Item_Legs_T04_Copper_Brute",
+    "Id": -2095610608
+  },
+  {
+    "Name": "Item_Legs_T04_Copper_Rogue",
+    "Id": -90702575
+  },
+  {
+    "Name": "Item_Legs_T04_Copper_Scholar",
+    "Id": 1458279255
+  },
+  {
+    "Name": "Item_Legs_T04_Copper_Warrior",
+    "Id": -1993947781
+  },
+  {
+    "Name": "Item_Legs_T05_Cotton",
+    "Id": 12127911
+  },
+  {
+    "Name": "Item_Legs_T06_Iron_Brute",
+    "Id": 680112231
+  },
+  {
+    "Name": "Item_Legs_T06_Iron_Rogue",
+    "Id": 744344540
+  },
+  {
+    "Name": "Item_Legs_T06_Iron_Scholar",
+    "Id": -454576348
+  },
+  {
+    "Name": "Item_Legs_T06_Iron_Warrior",
+    "Id": 206495029
+  },
+  {
+    "Name": "Item_Legs_T07_Silk",
+    "Id": -1555051415
+  },
+  {
+    "Name": "Item_Legs_T08_DarkSilver_Brute",
+    "Id": -1385786654
+  },
+  {
+    "Name": "Item_Legs_T08_DarkSilver_Rogue",
+    "Id": -262114802
+  },
+  {
+    "Name": "Item_Legs_T08_DarkSilver_Scholar",
+    "Id": 703230071
+  },
+  {
+    "Name": "Item_Legs_T08_DarkSilver_Warrior",
+    "Id": -481041545
+  },
+  {
+    "Name": "Item_Legs_T09_Dracula",
+    "Id": 125611165
+  },
+  {
+    "Name": "Item_Legs_T09_Dracula_Brute",
+    "Id": 993033515
+  },
+  {
+    "Name": "Item_Legs_T09_Dracula_Rogue",
+    "Id": -345596442
+  },
+  {
+    "Name": "Item_Legs_T09_Dracula_Scholar",
+    "Id": 1592149279
+  },
+  {
+    "Name": "Item_Legs_T09_Dracula_Warrior",
+    "Id": 205207385
+  },
+  {
+    "Name": "Item_Legs_T0X_BlackfangSultan",
+    "Id": -1558814807
+  },
+  {
+    "Name": "Item_Legs_T0X_Cosmetic_Suit01",
+    "Id": 213736942
+  },
+  {
+    "Name": "Item_Legs_T0X_PMK01",
+    "Id": -1564372276
+  },
+  {
+    "Name": "Item_Legs_T0X_PMK02",
+    "Id": -536717606
+  },
+  {
+    "Name": "Item_Legs_T0X_PMK03",
+    "Id": 1811913705
+  },
+  {
+    "Name": "Item_Legs_T0X_TransmogTest",
+    "Id": 1217578824
+  },
+  {
+    "Name": "Item_Legs_T0X_VampireKnight",
+    "Id": 1966590385
+  },
+  {
+    "Name": "Item_MagicSource_BloodKey_T01",
+    "Id": 1655869633
+  },
+  {
+    "Name": "Item_MagicSource_General_T01_BoneRing",
+    "Id": 1557814269
+  },
+  {
+    "Name": "Item_MagicSource_General_T02_BloodBoneRing",
+    "Id": -652069131
+  },
+  {
+    "Name": "Item_MagicSource_General_T03_GravediggerRing",
+    "Id": -1588051702
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_Duskwatcher",
+    "Id": -809059551
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_EmberChain",
+    "Id": 50824544
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_FrozenEye",
+    "Id": 336922685
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_MistSignet",
+    "Id": -886916793
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_RubyRing",
+    "Id": 341837267
+  },
+  {
+    "Name": "Item_MagicSource_General_T04_SorcererRing",
+    "Id": -1184863500
+  },
+  {
+    "Name": "Item_MagicSource_General_T05_Relic",
+    "Id": -650855520
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_AmethystPendant",
+    "Id": 199425997
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_EmeraldNecklace",
+    "Id": -1046748791
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_MistStoneNecklace",
+    "Id": 1012837641
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_RubyPendant",
+    "Id": -425306671
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_SapphirePendant",
+    "Id": -651554566
+  },
+  {
+    "Name": "Item_MagicSource_General_T06_TopazAmulet",
+    "Id": 610958202
+  },
+  {
+    "Name": "Item_MagicSource_General_T07_BloodwineAmulet",
+    "Id": 991396285
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Blood",
+    "Id": -104934480
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Chaos",
+    "Id": -175650376
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Frost",
+    "Id": 1380368392
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Illusion",
+    "Id": -1306155896
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Storm",
+    "Id": -296161379
+  },
+  {
+    "Name": "Item_MagicSource_General_T08_Unholy",
+    "Id": -1004351840
+  },
+  {
+    "Name": "Item_MagicSource_SoulShard_Dracula",
+    "Id": 666638454
+  },
+  {
+    "Name": "Item_MagicSource_SoulShard_Manticore",
+    "Id": -1260254082
+  },
+  {
+    "Name": "Item_MagicSource_SoulShard_Monster",
+    "Id": -1581189572
+  },
+  {
+    "Name": "Item_MagicSource_SoulShard_Morgana",
+    "Id": 1286615355
+  },
+  {
+    "Name": "Item_MagicSource_SoulShard_Solarus",
+    "Id": -21943750
+  },
+  {
+    "Name": "Item_NetherShard_T01",
+    "Id": 2103989354
+  },
+  {
+    "Name": "Item_NetherShard_T02",
+    "Id": 576389135
+  },
+  {
+    "Name": "Item_NetherShard_T03",
+    "Id": 28358550
+  },
+  {
+    "Name": "Item_NewBag_T01",
+    "Id": -219760992
+  },
+  {
+    "Name": "Item_NewBag_T02",
+    "Id": -1991977825
+  },
+  {
+    "Name": "Item_NewBag_T03",
+    "Id": -261654929
+  },
+  {
+    "Name": "Item_NewBag_T04",
+    "Id": -1922998918
+  },
+  {
+    "Name": "Item_NewBag_T05",
+    "Id": 1117281334
+  },
+  {
+    "Name": "Item_NewBag_T06",
+    "Id": -181179773
+  },
+  {
+    "Name": "Item_Saddle_Basic",
+    "Id": -1209228232
+  },
+  {
+    "Name": "Item_Saddle_Blackfang_DLC",
+    "Id": -1793846754
+  },
+  {
+    "Name": "Item_Saddle_Gloomrot_DLC",
+    "Id": -554782766
+  },
+  {
+    "Name": "Item_Saddle_PMKSkeleton_DLC",
+    "Id": -1270904319
+  },
+  {
+    "Name": "Item_Vampire_Coating_Blood",
+    "Id": -1617973064
+  },
+  {
+    "Name": "Item_Vampire_Coating_Chaos",
+    "Id": -1051190225
+  },
+  {
+    "Name": "Item_Vampire_Coating_Frost",
+    "Id": -1087318964
+  },
+  {
+    "Name": "Item_Vampire_Coating_Illusion",
+    "Id": 1148284648
+  },
+  {
+    "Name": "Item_Vampire_Coating_Storm",
+    "Id": 2128629897
+  },
+  {
+    "Name": "Item_Vampire_Coating_Unholy",
+    "Id": 1002732935
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_NameGenerator_T06",
+    "Id": 163122449
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_NameGenerator_T08",
+    "Id": 1570017693
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_T06",
+    "Id": 1259464735
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_T06_Shattered",
+    "Id": -2147445292
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_T08",
+    "Id": -102830349
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_T08_Shattered",
+    "Id": 442700150
+  },
+  {
+    "Name": "Item_Weapon_Axe_Legendary_T08_Trader_Template",
+    "Id": -1024626758
+  },
+  {
+    "Name": "Item_Weapon_Axe_T01_Bone",
+    "Id": -1958888844
+  },
+  {
+    "Name": "Item_Weapon_Axe_T02_Bone_Reinforced",
+    "Id": -1391446205
+  },
+  {
+    "Name": "Item_Weapon_Axe_T02_WoodCutter",
+    "Id": 1541522788
+  },
+  {
+    "Name": "Item_Weapon_Axe_T03_Copper",
+    "Id": 518802008
+  },
+  {
+    "Name": "Item_Weapon_Axe_T04_Copper_Reinforced",
+    "Id": -491969324
+  },
+  {
+    "Name": "Item_Weapon_Axe_T05_Iron",
+    "Id": -1579575933
+  },
+  {
+    "Name": "Item_Weapon_Axe_T06_Iron_Reinforced",
+    "Id": 198951695
+  },
+  {
+    "Name": "Item_Weapon_Axe_T07_DarkSilver",
+    "Id": -1130238142
+  },
+  {
+    "Name": "Item_Weapon_Axe_T08_Sanguine",
+    "Id": -2044057823
+  },
+  {
+    "Name": "Item_Weapon_Axe_T09_ShadowMatter",
+    "Id": 2100090213
+  },
+  {
+    "Name": "Item_Weapon_Axe_Unique_T08_Variation01",
+    "Id": 1239564213
+  },
+  {
+    "Name": "Item_Weapon_Axe_Unique_T08_Variation01_Shattered",
+    "Id": 2099198078
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_NameGenerator_T06",
+    "Id": -444900575
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_NameGenerator_T08",
+    "Id": -1774269887
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_T06",
+    "Id": -2060572315
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_T06_Shattered",
+    "Id": -1746159915
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_T08",
+    "Id": -27238530
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_T08_Shattered",
+    "Id": -655493979
+  },
+  {
+    "Name": "Item_Weapon_Claws_Legendary_T08_Trader_Template",
+    "Id": 1401940772
+  },
+  {
+    "Name": "Item_Weapon_Claws_T05_Iron",
+    "Id": -1333849822
+  },
+  {
+    "Name": "Item_Weapon_Claws_T06_Iron_Reinforced",
+    "Id": 1748886117
+  },
+  {
+    "Name": "Item_Weapon_Claws_T07_DarkSilver",
+    "Id": -1470260175
+  },
+  {
+    "Name": "Item_Weapon_Claws_T08_Sanguine",
+    "Id": -1777908217
+  },
+  {
+    "Name": "Item_Weapon_Claws_Unique_T08_Variation01",
+    "Id": -996999913
+  },
+  {
+    "Name": "Item_Weapon_Claws_Unique_T08_Variation01_Shattered",
+    "Id": -1024379681
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_NameGenerator_T06",
+    "Id": 1958482379
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_NameGenerator_T08",
+    "Id": 1716435762
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_T06",
+    "Id": -517906196
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_T06_Shattered",
+    "Id": 572026243
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_T08",
+    "Id": 935392085
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_T08_Shattered",
+    "Id": 2061238391
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Legendary_T08_Trader_Template",
+    "Id": 517296275
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T01_Bone",
+    "Id": -20041991
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T02_Bone_Reinforced",
+    "Id": 898159697
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T03_Copper",
+    "Id": -1277074895
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T04_Copper_Reinforced",
+    "Id": -1636801169
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T05_Iron",
+    "Id": 836066667
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T06_Iron_Reinforced",
+    "Id": 1221976097
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T07_DarkSilver",
+    "Id": -814739263
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T08_Sanguine",
+    "Id": 1389040540
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_T09_ShadowMatter",
+    "Id": 1957540013
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Unique_T08_Variation01",
+    "Id": -1401104184
+  },
+  {
+    "Name": "Item_Weapon_Crossbow_Unique_T08_Variation01_Shattered",
+    "Id": 781586362
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_NameGenerator_T06",
+    "Id": -816018167
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_NameGenerator_T08",
+    "Id": -1566606969
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_T06",
+    "Id": -1276458869
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_T06_Shattered",
+    "Id": -1075670534
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_T08",
+    "Id": 140761255
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_T08_Shattered",
+    "Id": -2137269775
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Legendary_T08_Trader_Template",
+    "Id": 1719144622
+  },
+  {
+    "Name": "Item_Weapon_Daggers_T05_Iron",
+    "Id": 1296724931
+  },
+  {
+    "Name": "Item_Weapon_Daggers_T06_Iron_Reinforced",
+    "Id": 703783407
+  },
+  {
+    "Name": "Item_Weapon_Daggers_T07_DarkSilver",
+    "Id": -211034148
+  },
+  {
+    "Name": "Item_Weapon_Daggers_T08_Sanguine",
+    "Id": 1031107636
+  },
+  {
+    "Name": "Item_Weapon_Daggers_T09_ShadowMatter",
+    "Id": -1961050884
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Unique_T08_Variation01",
+    "Id": -1873605364
+  },
+  {
+    "Name": "Item_Weapon_Daggers_Unique_T08_Variation01_Shattered",
+    "Id": -1233207977
+  },
+  {
+    "Name": "Item_Weapon_FishingPole_Debug",
+    "Id": -1766408331
+  },
+  {
+    "Name": "Item_Weapon_FishingPole_T01",
+    "Id": 1302850112
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_NameGenerator_T06",
+    "Id": -437176953
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_NameGenerator_T08",
+    "Id": -256643998
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_T06",
+    "Id": 869276797
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_T06_Shattered",
+    "Id": 747911021
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_T08",
+    "Id": -1173681254
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_T08_Shattered",
+    "Id": -1638796801
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Legendary_T08_Trader_Template",
+    "Id": -1743584975
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_T05_Iron",
+    "Id": -768054337
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_T06_Iron_Reinforced",
+    "Id": 82781195
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_T07_DarkSilver",
+    "Id": 674704033
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_T08_Sanguine",
+    "Id": 147836723
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_T09_ShadowMatter",
+    "Id": 1322254792
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Unique_T08_Variation01",
+    "Id": 820408138
+  },
+  {
+    "Name": "Item_Weapon_GreatSword_Unique_T08_Variation01_Shattered",
+    "Id": 1272855317
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_NameGenerator_T06",
+    "Id": -726074700
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_NameGenerator_T08",
+    "Id": 288292636
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_T06",
+    "Id": -1003309553
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_T06_Shattered",
+    "Id": 649637190
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_T08",
+    "Id": 1177453385
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_T08_Shattered",
+    "Id": 285875674
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Legendary_T08_Trader_Template",
+    "Id": 19130904
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T03_Copper",
+    "Id": 532033005
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T04_Copper_Reinforced",
+    "Id": 352247730
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T05_Iron",
+    "Id": -1993708658
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T06_Iron_Reinforced",
+    "Id": 1951565953
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T07_DarkSilver",
+    "Id": -1830162796
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T08_Sanguine",
+    "Id": 1860352606
+  },
+  {
+    "Name": "Item_Weapon_Longbow_T09_ShadowMatter",
+    "Id": 1283345494
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Unique_T08_Variation01",
+    "Id": -557203874
+  },
+  {
+    "Name": "Item_Weapon_Longbow_Unique_T08_Variation01_Shattered",
+    "Id": 1102277512
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_NameGenerator_T06",
+    "Id": 264593098
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_NameGenerator_T08",
+    "Id": -2048346225
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_T06",
+    "Id": 1177597629
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_T06_Shattered",
+    "Id": 1963988265
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_T08",
+    "Id": 1994084762
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_T08_Shattered",
+    "Id": -1810734832
+  },
+  {
+    "Name": "Item_Weapon_Mace_Legendary_T08_Trader_Template",
+    "Id": -1845443712
+  },
+  {
+    "Name": "Item_Weapon_Mace_T01_Bone",
+    "Id": 1588258447
+  },
+  {
+    "Name": "Item_Weapon_Mace_T02_Bone_Reinforced",
+    "Id": -1998017941
+  },
+  {
+    "Name": "Item_Weapon_Mace_T02_Miners",
+    "Id": -687294429
+  },
+  {
+    "Name": "Item_Weapon_Mace_T03_Copper",
+    "Id": -331345186
+  },
+  {
+    "Name": "Item_Weapon_Mace_T04_Copper_Reinforced",
+    "Id": 343324920
+  },
+  {
+    "Name": "Item_Weapon_Mace_T05_Iron",
+    "Id": -1714012261
+  },
+  {
+    "Name": "Item_Weapon_Mace_T06_Iron_Reinforced",
+    "Id": -276593802
+  },
+  {
+    "Name": "Item_Weapon_Mace_T07_DarkSilver",
+    "Id": -184713893
+  },
+  {
+    "Name": "Item_Weapon_Mace_T08_Sanguine",
+    "Id": -126076280
+  },
+  {
+    "Name": "Item_Weapon_Mace_T09_ShadowMatter",
+    "Id": 160471982
+  },
+  {
+    "Name": "Item_Weapon_Mace_Unique_T08_Variation01",
+    "Id": 675187526
+  },
+  {
+    "Name": "Item_Weapon_Mace_Unique_T08_Variation01_Shattered",
+    "Id": -915028618
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_NameGenerator_T06",
+    "Id": 1333624152
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_NameGenerator_T08",
+    "Id": -1843989041
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_T06",
+    "Id": 14297698
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_T06_Shattered",
+    "Id": -1038642372
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_T08",
+    "Id": -944318126
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_T08_Shattered",
+    "Id": 1040125618
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Legendary_T08_Trader_Template",
+    "Id": -1502177717
+  },
+  {
+    "Name": "Item_Weapon_Pistols_T05_Iron",
+    "Id": 769603740
+  },
+  {
+    "Name": "Item_Weapon_Pistols_T06_Iron_Reinforced",
+    "Id": 1850870666
+  },
+  {
+    "Name": "Item_Weapon_Pistols_T07_DarkSilver",
+    "Id": 674407758
+  },
+  {
+    "Name": "Item_Weapon_Pistols_T08_Sanguine",
+    "Id": 1071656850
+  },
+  {
+    "Name": "Item_Weapon_Pistols_T09_ShadowMatter",
+    "Id": -1265586439
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Unique_T08_Variation01",
+    "Id": 1759077469
+  },
+  {
+    "Name": "Item_Weapon_Pistols_Unique_T08_Variation01_Shattered",
+    "Id": 1630030026
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_NameGenerator_T06",
+    "Id": -576626587
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_NameGenerator_T08",
+    "Id": -383870009
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_T06",
+    "Id": -922125625
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_T06_Shattered",
+    "Id": -413259500
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_T08",
+    "Id": -105026635
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_T08_Shattered",
+    "Id": 886814985
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Legendary_T08_Trader_Template",
+    "Id": -2136716453
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T01_Bone",
+    "Id": -152327780
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T02_Bone_Reinforced",
+    "Id": 1402953369
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T03_Copper",
+    "Id": 1522792650
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T04_Copper_Reinforced",
+    "Id": 1048518929
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T05_Iron",
+    "Id": -2081286944
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T06_Iron_Reinforced",
+    "Id": 1778128946
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T06_Iron_UndeadGeneral",
+    "Id": 1887724512
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T07_DarkSilver",
+    "Id": 6711686
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T08_Sanguine",
+    "Id": -2053917766
+  },
+  {
+    "Name": "Item_Weapon_Reaper_T09_ShadowMatter",
+    "Id": -465491217
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Unique_T08_Variation01",
+    "Id": -859437190
+  },
+  {
+    "Name": "Item_Weapon_Reaper_Unique_T08_Variation01_Shattered",
+    "Id": 1801132968
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_NameGenerator_T06",
+    "Id": 658426701
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_NameGenerator_T08",
+    "Id": 810808231
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_T06",
+    "Id": 1930526079
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_T06_Shattered",
+    "Id": 3759455
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_T08",
+    "Id": 821410795
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_T08_Shattered",
+    "Id": 1271087499
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Legendary_T08_Trader_Template",
+    "Id": -1390536751
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T01_Bone",
+    "Id": -588909332
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T02_Bone_Reinforced",
+    "Id": 926722036
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T03_Copper",
+    "Id": 1499160417
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T04_Copper_Reinforced",
+    "Id": -1042299347
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T05_Iron",
+    "Id": -314614708
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T06_Iron_Reinforced",
+    "Id": 866934844
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T07_DarkSilver",
+    "Id": 633666898
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T08_Sanguine",
+    "Id": 1322545846
+  },
+  {
+    "Name": "Item_Weapon_Slashers_T09_ShadowMatter",
+    "Id": 506082542
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Unique_T08_Variation01",
+    "Id": -2068145306
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Unique_T08_Variation01_Shattered",
+    "Id": 1954207008
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Unique_T08_Variation02",
+    "Id": 1570363331
+  },
+  {
+    "Name": "Item_Weapon_Slashers_Unique_T08_Variation02_Shattered",
+    "Id": -1930402723
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_NameGenerator_T06",
+    "Id": -1854790299
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_NameGenerator_T08",
+    "Id": 912809090
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_T06",
+    "Id": 2001389164
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_T06_Shattered",
+    "Id": 2142983740
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_T08",
+    "Id": -1931117134
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_T08_Shattered",
+    "Id": 1717016192
+  },
+  {
+    "Name": "Item_Weapon_Spear_Legendary_T08_Trader_Template",
+    "Id": -958110636
+  },
+  {
+    "Name": "Item_Weapon_Spear_T01_Bone",
+    "Id": 2038011836
+  },
+  {
+    "Name": "Item_Weapon_Spear_T02_Bone_Reinforced",
+    "Id": 1244180446
+  },
+  {
+    "Name": "Item_Weapon_Spear_T03_Copper",
+    "Id": 1370755976
+  },
+  {
+    "Name": "Item_Weapon_Spear_T04_Copper_Reinforced",
+    "Id": 790210443
+  },
+  {
+    "Name": "Item_Weapon_Spear_T05_Iron",
+    "Id": 1853029976
+  },
+  {
+    "Name": "Item_Weapon_Spear_T06_Iron_Reinforced",
+    "Id": 1065194820
+  },
+  {
+    "Name": "Item_Weapon_Spear_T07_DarkSilver",
+    "Id": -352704566
+  },
+  {
+    "Name": "Item_Weapon_Spear_T08_Sanguine",
+    "Id": -850142339
+  },
+  {
+    "Name": "Item_Weapon_Spear_T09_ShadowMatter",
+    "Id": 1307774440
+  },
+  {
+    "Name": "Item_Weapon_Spear_Unique_T08_Variation01",
+    "Id": -1674680373
+  },
+  {
+    "Name": "Item_Weapon_Spear_Unique_T08_Variation01_Shattered",
+    "Id": 124616797
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_NameGenerator_T06",
+    "Id": 1564801426
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_NameGenerator_T08",
+    "Id": 1908755405
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_T06",
+    "Id": 1637216050
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_T06_Shattered",
+    "Id": -1421775051
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_T08",
+    "Id": 195858450
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_T08_Shattered",
+    "Id": 1048769481
+  },
+  {
+    "Name": "Item_Weapon_Sword_Legendary_T08_Trader_Template",
+    "Id": -830893351
+  },
+  {
+    "Name": "Item_Weapon_Sword_T01_Bone",
+    "Id": -2085919458
+  },
+  {
+    "Name": "Item_Weapon_Sword_T02_Bone_Reinforced",
+    "Id": -796306296
+  },
+  {
+    "Name": "Item_Weapon_Sword_T03_Copper",
+    "Id": -2037272000
+  },
+  {
+    "Name": "Item_Weapon_Sword_T04_Copper_Reinforced",
+    "Id": -1219959051
+  },
+  {
+    "Name": "Item_Weapon_Sword_T05_Iron",
+    "Id": -903587404
+  },
+  {
+    "Name": "Item_Weapon_Sword_T06_Iron_Reinforced",
+    "Id": -435501075
+  },
+  {
+    "Name": "Item_Weapon_Sword_T07_DarkSilver",
+    "Id": -1455388114
+  },
+  {
+    "Name": "Item_Weapon_Sword_T08_Sanguine",
+    "Id": -774462329
+  },
+  {
+    "Name": "Item_Weapon_Sword_T09_ShadowMatter",
+    "Id": -1215982687
+  },
+  {
+    "Name": "Item_Weapon_Sword_Unique_T08_Variation01",
+    "Id": 2106567892
+  },
+  {
+    "Name": "Item_Weapon_Sword_Unique_T08_Variation01_Shattered",
+    "Id": 220001518
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_NameGenerator_T06",
+    "Id": 1835208468
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_NameGenerator_T08",
+    "Id": 2023500574
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_T06",
+    "Id": -1634108038
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_T06_Shattered",
+    "Id": 1579758125
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_T08",
+    "Id": 152014105
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_T08_Shattered",
+    "Id": 1479621167
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Legendary_T08_Trader_Template",
+    "Id": -228881628
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_T05_Iron",
+    "Id": -1122389049
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_T06_Iron_Reinforced",
+    "Id": -1651990235
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_T07_DarkSilver",
+    "Id": -1595292245
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_T08_Sanguine",
+    "Id": -297349982
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_T09_ShadowMatter",
+    "Id": -699863795
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Unique_T08_Variation01",
+    "Id": 601169005
+  },
+  {
+    "Name": "Item_Weapon_TwinBlades_Unique_T08_Variation01_Shattered",
+    "Id": -1397287045
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_NameGenerator_T06",
+    "Id": -882837429
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_NameGenerator_T08",
+    "Id": 1838862498
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_T06",
+    "Id": 1705984031
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_T06_Shattered",
+    "Id": -1222824286
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_T08",
+    "Id": 429323760
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_T08_Shattered",
+    "Id": 1490846791
+  },
+  {
+    "Name": "Item_Weapon_Whip_Legendary_T08_Trader_Template",
+    "Id": 1340494453
+  },
+  {
+    "Name": "Item_Weapon_Whip_T05_Iron",
+    "Id": -847062445
+  },
+  {
+    "Name": "Item_Weapon_Whip_T06_Iron_Reinforced",
+    "Id": 1393113320
+  },
+  {
+    "Name": "Item_Weapon_Whip_T07_DarkSilver",
+    "Id": -960205578
+  },
+  {
+    "Name": "Item_Weapon_Whip_T08_Sanguine",
+    "Id": -655095317
+  },
+  {
+    "Name": "Item_Weapon_Whip_T09_ShadowMatter",
+    "Id": 567413754
+  },
+  {
+    "Name": "Item_Weapon_Whip_Unique_T08_Variation01",
+    "Id": -671246832
+  },
+  {
+    "Name": "Item_Weapon_Whip_Unique_T08_Variation01_Shattered",
+    "Id": 950358400
+  }
+]
