@@ -6,7 +6,7 @@
     <LangVersion>latest</LangVersion>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <AssemblyName>HutchVRisingTrainer</AssemblyName>
-    <Version>0.6.4</Version>
+    <Version>0.6.5</Version>
     <VRI_GAME_DIR Condition="'$(VRI_GAME_DIR)' == ''">D:\SteamLibrary\steamapps\common\VRising</VRI_GAME_DIR>
   </PropertyGroup>
   <ItemGroup>

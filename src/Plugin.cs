@@ -13,7 +13,7 @@ public sealed class Plugin : BasePlugin
 {
     public const string Id = "hutch.vrising.achievementtrainer";
     public const string Name = "Hutch V Rising Achievement Trainer";
-    public const string Version = "0.6.4";
+    public const string Version = "0.6.5";
     private Harmony? _harmony;
 
     public override void Load()
@@ -31,8 +31,8 @@ public sealed class Plugin : BasePlugin
             "While the trainer is closed, aim at a converting servant coffin and press this key to finish it. Requires adminauth.");
         var clearBoostsOnJoin = Config.Bind("Safety", "ClearBoostsOnJoin", true,
             "Send .mortal once after joining a local world to clear character boosts left by a previous session or crash. Requires admin rights.");
-        var steamId = Config.Bind("Achievements", "SteamId64", "76561199099998102",
-            "Steam ID used for the read-only checklist. The signed-in client's local cache is used when available; another profile needs public Game details.");
+        var steamId = Config.Bind("Achievements", "SteamId64", "",
+            "Leave blank to detect the signed-in Steam account. Set a 17-digit Steam ID to track another profile, which needs public Game details. Read-only.");
         var checklist = new AchievementChecklist(steamId.Value, Log);
         var commands = new ClientCommandService(Log, clearBoostsOnJoin.Value);
         var worldSettings = new LocalWorldSettingsService(Log);

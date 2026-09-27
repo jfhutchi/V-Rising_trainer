@@ -20,19 +20,20 @@ internal sealed class AchievementChecklist : IDisposable
 {
     private readonly HttpClient _http = new() { Timeout = TimeSpan.FromSeconds(10) };
     private readonly ManualLogSource _log;
-    private readonly string _steamId;
+    private readonly string _configuredSteamId;
+    private string _steamId = "";
     private Task<Dictionary<string, bool>>? _pending;
     private DateTime _nextRefreshUtc;
 
     internal IReadOnlyList<AchievementEntry> Entries { get; }
     internal string Status { get; private set; } = "Showing the catalog. Waiting for Steam profile refresh.";
     internal bool IsLive { get; private set; }
-    internal string SteamId => _steamId;
+    internal string SteamId => _steamId.Length == 0 ? "(automatic detection pending)" : _steamId;
     internal int EarnedCount => Entries.Count(entry => entry.Earned);
 
     internal AchievementChecklist(string steamId, ManualLogSource log)
     {
-        _steamId = steamId.Trim();
+        _configuredSteamId = steamId.Trim();
         _log = log;
         using var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream(
             "HutchVRisingTrainer.data.Achievements.json")
@@ -46,16 +47,24 @@ internal sealed class AchievementChecklist : IDisposable
     internal void RequestRefresh()
     {
         if (_pending is not null) return;
-        if (_steamId.Length != 17 || _steamId.Any(character => character < '0' || character > '9'))
-        {
-            Status = "SteamId64 must contain exactly 17 digits. Check the BepInEx config.";
-            IsLive = false;
-            return;
-        }
-
         _nextRefreshUtc = DateTime.UtcNow.AddSeconds(30);
         try
         {
+            var resolvedId = SteamAchievementCache.ResolveCurrentSteamId(_configuredSteamId) ?? "";
+            if (_steamId != resolvedId)
+            {
+                _steamId = resolvedId;
+                foreach (var entry in Entries) entry.Earned = false;
+                IsLive = false;
+            }
+            if (_steamId.Length != 17 || _steamId.Any(character => character < '0' || character > '9'))
+            {
+                Status = _configuredSteamId.Length == 0
+                    ? "No signed-in Steam account detected. Start Steam or set SteamId64 in the BepInEx config."
+                    : "SteamId64 must contain exactly 17 digits. Check the BepInEx config.";
+                IsLive = false;
+                return;
+            }
             var local = SteamAchievementCache.ReadForCurrentUser(_steamId);
             if (local is not null)
             {

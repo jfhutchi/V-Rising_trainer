@@ -9,6 +9,21 @@ internal static class SteamAchievementCache
     private const ulong SteamIdBase = 76561197960265728;
     private const string AppId = "1604030";
 
+    internal static string? ResolveSteamId(string configuredId, int? activeUser)
+    {
+        if (!string.IsNullOrWhiteSpace(configuredId)) return configuredId.Trim();
+        if (activeUser is null or 0) return null;
+        return (SteamIdBase + unchecked((uint)activeUser.Value)).ToString(CultureInfo.InvariantCulture);
+    }
+
+    internal static string? ResolveCurrentSteamId(string configuredId)
+    {
+        if (!string.IsNullOrWhiteSpace(configuredId)) return configuredId.Trim();
+        if (!OperatingSystem.IsWindows()) return null;
+        using var activeKey = Registry.CurrentUser.OpenSubKey(@"Software\Valve\Steam\ActiveProcess");
+        return ResolveSteamId(configuredId, activeKey?.GetValue("ActiveUser") as int?);
+    }
+
     internal static (Dictionary<string, bool> States, DateTime UpdatedUtc)? ReadForCurrentUser(string steamId)
     {
         if (!OperatingSystem.IsWindows()) return null;

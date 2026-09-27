@@ -66,11 +66,21 @@ try
 }
 catch (InvalidDataException) { }
 
-Console.WriteLine("Steam cache parser tests passed.");
+if (SteamAchievementCache.ResolveSteamId("", 12345) != "76561197960278073" ||
+    SteamAchievementCache.ResolveSteamId("  ", -1) != "76561202255233023" ||
+    SteamAchievementCache.ResolveSteamId("", 0) is not null ||
+    SteamAchievementCache.ResolveSteamId("", null) is not null ||
+    SteamAchievementCache.ResolveSteamId(" 76561197960278073 ", 67890) != "76561197960278073" ||
+    SteamAchievementCache.ResolveSteamId("invalid", 12345) != "invalid")
+    throw new Exception("Steam account detection or explicit profile selection was incorrect.");
+
+Console.WriteLine("Steam cache parser and account selection tests passed.");
 
 if (args.Length == 1)
 {
-    var live = SteamAchievementCache.ReadForCurrentUser(args[0])
+    var steamId = SteamAchievementCache.ResolveCurrentSteamId(args[0] == "--current" ? "" : args[0])
+        ?? throw new Exception("The signed-in Steam account could not be detected.");
+    var live = SteamAchievementCache.ReadForCurrentUser(steamId)
         ?? throw new Exception("The signed-in Steam user's achievement cache was unavailable.");
     Console.WriteLine($"Local Steam cache: {live.States.Values.Count(earned => earned)}/{live.States.Count} earned.");
 }

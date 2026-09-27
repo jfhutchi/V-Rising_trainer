@@ -1,10 +1,14 @@
 # Hutch V Rising Trainer
 
-An in-game trainer for a single private Brutal PvE run. Press **F6** to open an opaque navy and teal, draggable window like the Hutch Universim trainer. The Trainer tab sends live commands to V Rising's locally hosted server and can save travel and servant conversion settings in the active world's `ServerGameSettings.json`. The Achievements tab tracks all 49 achievements on the configured Steam account.
+An in-game trainer for Windows / Steam private, locally hosted PvE worlds. Press **F6** to open the draggable trainer window. The Trainer tab sends live commands to V Rising's locally hosted server and can save travel and servant conversion settings in the active world's `ServerGameSettings.json`. The Achievements tab tracks all 49 achievements on the signed-in Steam account, with an optional profile override.
 
 This build targets V Rising `v1.1.13.0-r99712-b17` and BepInEx 6 IL2CPP. The trainer uses [KindredCommands](https://thunderstore.io/c/v-rising/p/odjit/KindredCommands/) for the server-side actions, [KindredSchematics](https://thunderstore.io/c/v-rising/p/odjit/KindredSchematics/) for free building, and [ServerLaunchFix](https://thunderstore.io/c/v-rising/p/Mythic/ServerLaunchFix/) so those actions work in a locally hosted world.
 
-## Install
+## Download and install
+
+Download the prebuilt ZIP from [GitHub Releases](https://github.com/jfhutchi/V-Rising_trainer/releases). Follow the [public installation guide](packaging/INSTALL.md) for dependencies, manual installation, configuration, upgrades and removal. The binary download does not require the .NET SDK. Remote and dedicated servers are not supported by the trainer's command bridge.
+
+## Build from source
 
 Requirements: V Rising with BepInEx 6 IL2CPP and generated `BepInEx/interop` assemblies, PowerShell 7, and .NET SDK 8 or newer. Close V Rising before installing.
 
@@ -58,10 +62,26 @@ On the Items page, click **Search items**, type a word such as `sword`, and choo
 
 The bundled browser contains 1,107 `Item_` prefab IDs from the [KindredCommands prefab catalog](https://github.com/Odjit/KindredCommands/blob/d956d65/Data/Prefabs.cs), for the V Rising 1.1 game family. Some internal or template prefabs may not be grantable; the server's chat reply is authoritative. The on-screen search does not send a command. Only **Give selected** sends `.give`.
 
-The commands are only sent while a `VRisingServer.exe` process is running locally and the client character is loaded. They require admin rights in that world. There is no button that marks Steam achievements complete or skips V Blood progression. Fight and drink the blood of every V Blood for Master of All; use the five Brutal milestones on the same world. The checklist reads the signed-in Steam client's local achievement cache when its account ID matches the configured `76561199099998102` default. This avoids the stale 0/49 shown by that profile's public page. The menu shows the cache's last-saved time. For another Steam ID, the checklist uses that profile's public achievement page. Change the profile, F6 menu key, or F7 conversion key in `BepInEx/config/hutch.vrising.achievementtrainer.cfg` after the first launch.
+The commands are only sent while a `VRisingServer.exe` process is running locally and the client character is loaded. They require admin rights in that world. There is no button that marks Steam achievements complete or skips V Blood progression. Fight and drink the blood of every V Blood for Master of All; use the five Brutal milestones on the same world. By default, the checklist detects the signed-in Steam account and reads its local achievement cache. The menu shows the cache's last-saved time. Public profile lookup is used when the local cache is unavailable or an explicit different Steam ID is configured. Change the profile, F6 menu key, or F7 conversion key in `BepInEx/config/hutch.vrising.achievementtrainer.cfg` after the first launch. Leave `Achievements.SteamId64` blank for automatic detection. Existing configuration is preserved on upgrade; clear an old profile override to enable automatic detection.
 
 ## Verification and limits
 
 The project builds against the installed game's generated interop DLLs. The package download check, isolated helper install/upgrade/remove test, isolated quality-of-life install/configure/remove/reinstall test, and Steam catalog comparison pass. The F6 menu renders in the private world; **Show boost state**, **God mode ON**, and **Mortal / clear boosts** returned the expected results in earlier live tests. With God mode active, manually removing No Aggro let the player defeat a V Blood without the reported health reset. The updated button's automatic No Aggro removal still needs an in-game test after installation. If a command sends but no server chat reply appears, check `BepInEx/LogOutput.log` and the generated server BepInEx log. ServerLaunchFix notes that its first local-server launch can take longer while it builds interop files.
 
-The previously applied Brutal world preset was restored from its backup. The original backup remains beside that world only as a recovery copy; this trainer does not apply it.
+## Release packaging
+
+Run `./Package.ps1` (PowerShell 7) to build the DLL and create a versioned Nexus-ready manual-install ZIP and SHA-256 file in `dist/releases/`. Pass `-GameDir` for a different game installation. The packager checks project, plugin and assembly versions and verifies every ZIP entry. It refuses to overwrite an existing release. The ZIP includes the trainer DLL, installation guide, helper download scripts, full source and third-party notices. It excludes local settings, saves, logs, symbols, game assemblies and third-party dependency DLLs.
+
+[Nexus listing copy](packaging/NEXUS-LISTING.md) provides upload fields and a BBCode description. See [CHANGELOG.md](CHANGELOG.md) for releases and [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for upstream item-catalog attribution and license text.
+
+Verification commands:
+
+```powershell
+dotnet run --project tests/SteamCacheTests.csproj -- --current
+dotnet run --project tests/WorldSettingsTests.csproj
+./tests/Test-ItemCatalog.ps1
+./tests/Test-BloodAssist.ps1
+./tests/Test-QualityOfLife.ps1
+```
+
+The live Steam check needs a signed-in account with a V Rising cache; omit `-- --current` for fixture-only tests. Helper tests download pinned packages into isolated fixtures. Close V Rising before running the server-helper test.
